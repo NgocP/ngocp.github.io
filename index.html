@@ -1,0 +1,78 @@
+<!DOCTYPE html> 
+  <html class="no-js">
+    <head>
+      <meta charset="utf-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <title></title>
+      <meta name="description" content="" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link rel="stylesheet" href="" />
+    </head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>  
+    <link rel="stylesheet" href="style.css" />
+    <body>
+      <div class="top-banner text-center">
+        <h2 class="">United States COVID-19 Cases</h2>
+        <p>Ngoc Pham - CSC196V - Interactive Design Assignment</p>
+      </div>
+      <div class="container-fluid">
+        <div class="year-slider-container col-md-offset-4" style="text-align: center; margin-bottom: 20px;">
+          <div class="form-group">
+            <b><label for="date" id="date_label">Select Date: </label></b>
+            <input
+              id="date"
+              type="date"
+              min="2020-03-01"
+              max="2020-04-11"
+              value="2020-03-01"
+              style="text-align: center;"
+            />    
+          </div>
+          <span id="animationSpan" style="display: none; font-size: 30px; font-style: italic;"></span>
+          <div style="margin-top: 20px;"> 
+            <button type="button" id="buttonStart" class="btn btn-primary btn-lg" onclick="addInterval()">Start Animation</button>
+            <button type="button" class="btn btn-danger btn-lg" id="buttonStop" style="display:none;" onclick="StopInterval()"> Stop Animation </button>
+            <button type="button" id="buttonStart" data-toggle="modal" class="btn btn-secondary btn-lg"  data-target=".bd-example-modal-lg" >Description</button>            
+          </div>
+        </div>
+      </div>
+      <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" id="myModal">
+        <div class="modal-dialog modal-dialog-scrollable" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class=" modal-title" id="exampleModalScrollableTitle"><span class="text-center">Description</span></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+              <h6>Dataset</h6>
+              <p>For this assignment, I chose the dataset from the midterm: <a href=https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series target=blank>https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series</a>. The reason why I chose this dataset is because of how the Corona Virus is affecting our everyday's life. More and more human's life is at risk, especially in the U.S where the number of infected cases ranks the highest in the world. The data starts from January 22nd, but I chose to start the date range on March 1st, 2020 because that is when the number of infected cases in the U.S starts to increase.</p>
+              <h6>Visualization</h6>
+              <p>I want to focus on the United States as the visualization, so using a coloring map seems like the best choice here. I let the user choose the date to view the data in the map. I also go beyond and run a simulation to see how the map color, which is the number of infected cases, change over time. This assignment and this visualization gives a sense of how serious the COVID-19 is, and I hope that people take this problem seriously and stay home.</p>
+              <h6>Development Time and Progress</h6>
+              <p>I spent roughly 5 days, or about 30 hours to develop this application. I think that D3 has a deep learning curve, especially when I don't have much experience with JavaScript. The most time consuming task is to figure out how to change the map color when the input date is different. This task took me about 3 days to figure it out.</p>
+              <hr>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div style="text-align: center; margin-bottom: 20px;" class="map"></div>
+      <script src="script.js"></script>
+    </body>
+  </html>
+  
