@@ -198,18 +198,7 @@ background: rgba(31, 119, 180, 0.3);
   font-size: 12px;
 }
 
-/* select {
--webkit-appearance: none;
--moz-appearance: none;
--ms-appearance: none;
-appearance: none;
-outline: 0;
-box-shadow: none;
-border: 0 !important;
-background: #2c3e50;
-background-image: none;
-}
-/* Remove IE arrow */
+
 select::-ms-expand {
 display: none;
 }
@@ -306,4 +295,67 @@ outline: 1px dotted #a9a9a9;
 .legendThreshold {
 font-size: 12px;
 font-family: sans-serif;
+}
+
+.states-inputs{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.linechart-slider-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.states-select-label {
+  width: 100%;
+}
+
+.linechart-container {
+  margin-top: 50px;
+  padding-top: 30px;
+  border-top: 1px dashed #aaa;
+}
+
+.lineChartSliderLabel {
+  margin-left: 10px;
+  /* width: 100%; */
+}
+
+.linechart-controls-wrapper {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#lineChartSlider {
+  margin-left: 20px;
+  width: 500px;
+}
+
+.line {
+  fill: none;
+  stroke-width: 3px;
+}
+
+.example-val {
+    width: 100%;
+    clear: both;
+    float: left;
+    margin: 10px 0;
+    margin-left: 150px;
+    font-family: 'Arial';
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+
+.hover-line {
+  stroke: #b74779;
+  stroke-width: 2px;
+  stroke-dasharray: 3, 3;
 }

@@ -12,6 +12,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
+    <script src="nouislider.js"></script>
+    <script src="wNumb.min.js"></script>
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
@@ -21,10 +23,11 @@
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>  
     <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="nouislider.css" />
     <body>
       <div class="top-banner text-center">
         <h2 class="">United States COVID-19 Cases</h2>
-        <p>Ngoc Pham - CSC196V - Interactive Design Assignment</p>
+        <p>Ngoc Pham - CSC196V - Final Project</p>
       </div>
       <div class="container-fluid">
         <div class="year-slider-container col-md-offset-4" style="text-align: center; margin-bottom: 20px;">
@@ -34,7 +37,7 @@
               id="date"
               type="date"
               min="2020-03-01"
-              max="2020-04-11"
+              max="2020-05-03"
               value="2020-03-01"
               style="text-align: center;"
             />    
@@ -60,9 +63,11 @@
               <h6>Dataset</h6>
               <p>For this assignment, I chose the dataset from the midterm: <a href=https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series target=blank>https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series</a>. The reason why I chose this dataset is because of how the Corona Virus is affecting our everyday's life. More and more human's life is at risk, especially in the U.S where the number of infected cases ranks the highest in the world. The data starts from January 22nd, but I chose to start the date range on March 1st, 2020 because that is when the number of infected cases in the U.S starts to increase.</p>
               <h6>Visualization</h6>
-              <p>I want to focus on the United States as the visualization, so using a coloring map seems like the best choice here. I let the user choose the date to view the data in the map. I also go beyond and run a simulation to see how the map color, which is the number of infected cases, change over time. This assignment and this visualization gives a sense of how serious the COVID-19 is, and I hope that people take this problem seriously and stay home.</p>
+              <p>There are 2 interactive visualization and 1 static visualization in this project. In the first one, I want to focus on the United States as the visualization, so using a coloring map seems like the best choice here. I let the user choose the date to view the data in the map. I also go beyond and run a simulation to see how the map color, which is the number of infected cases, change over time. This assignment and this visualization gives a sense of how serious the COVID-19 is, and I hope that people take this problem seriously and stay home.</p>
+              <p>The second part of the visualization is to let the user choose any 2 states in the U.S to compare the trends of affected cases. This will give a deeper look into how the number of confirmed cases grows over time.</p>
+              <p>The third part of the visualization is created using Tableau. This graph gives the over view of number of recovered cases in the top 10 infected countries around the world.</p>
               <h6>Development Time and Progress</h6>
-              <p>I spent roughly 5 days, or about 30 hours to develop this application. I think that D3 has a deep learning curve, especially when I don't have much experience with JavaScript. The most time consuming task is to figure out how to change the map color when the input date is different. This task took me about 3 days to figure it out.</p>
+              <p>I spent roughly 7 days, or about 40 hours to develop this application. I think that D3 has a deep learning curve, especially when I don't have much experience with JavaScript. The most time consuming task is to figure out how to change the map color when the input date is different. This task took me about 3 days to figure it out.</p>
               <hr>
             </div>
             <div class="modal-footer">
@@ -71,7 +76,162 @@
           </div>
         </div>
       </div>
-      <div style="text-align: center; margin-bottom: 20px;" class="map"></div>
+      <div style="text-align: center; margin-bottom: 20px;" class="map" id="map"></div>
+    
+      <div class="col-sm-12">
+        <div class="linechart-container">
+          <div class="top-banner text-center">
+            <h2>Comparing Data between 2 States</h2>
+            <p>The line chart show the comparison between two selected states for the number of confirmed COVID-19 cases over the date</p>
+          </div>
+          <div class="linechart-controls-wrapper">
+            <div class="states-inputs">
+              <label for="" class="states-select-label">Select States to Compare</label>
+              <div id="stateInput1">
+                <select name="stateInput1" onchange="stateInput1Changed(this)">
+                  <option value="Alabama">Alabama</option>
+                  <option value="Alaska">Alaska</option>
+                  <option value="American Samoa">American Samoa</option>
+                  <option value="Arizona">Arizona</option>
+                  <option value="Arkansas">Arkansas</option>
+                  <option value="California">California</option>
+                  <option value="Colorado">Colorado</option>
+                  <option value="Connecticut">Connecticut</option>
+                  <option value="Delaware">Delaware</option>
+                  <option value="Diamond Princess">Diamond Princess</option>
+                  <option value="District of Columbia">District of Columbia</option>
+                  <option value="Florida">Florida</option>
+                  <option value="Georgia">Georgia</option>
+                  <option value="Grand Princess">Grand Princess</option>
+                  <option value="Guam">Guam</option>
+                  <option value="Hawaii">Hawaii</option>
+                  <option value="Idaho">Idaho</option>
+                  <option value="Illinois">Illinois</option>
+                  <option value="Indiana">Indiana</option>
+                  <option value="Iowa">Iowa</option>
+                  <option value="Kansas">Kansas</option>
+                  <option value="Kentucky">Kentucky</option>
+                  <option value="Louisiana">Louisiana</option>
+                  <option value="Maine">Maine</option>
+                  <option value="Maryland">Maryland</option>
+                  <option value="Massachusetts">Massachusetts</option>
+                  <option value="Michigan">Michigan</option>
+                  <option value="Minnesota">Minnesota</option>
+                  <option value="Mississippi">Mississippi</option>
+                  <option value="Missouri">Missouri</option>
+                  <option value="Montana">Montana</option>
+                  <option value="Nebraska">Nebraska</option>
+                  <option value="Nevada">Nevada</option>
+                  <option value="New Hampshire">New Hampshire</option>
+                  <option value="New Jersey">New Jersey</option>
+                  <option value="New Mexico">New Mexico</option>
+                  <option value="New York" selected>New York</option>
+                  <option value="North Carolina">North Carolina</option>
+                  <option value="North Dakota">North Dakota</option>
+                  <option value="Northern Mariana Islands">Northern Mariana Islands</option>
+                  <option value="Ohio">Ohio</option>
+                  <option value="Oklahoma">Oklahoma</option>
+                  <option value="Oregon">Oregon</option>
+                  <option value="Pennsylvania">Pennsylvania</option>
+                  <option value="Puerto Rico">Puerto Rico</option>
+                  <option value="Rhode Island">Rhode Island</option>
+                  <option value="South Carolina">South Carolina</option>
+                  <option value="South Dakota">South Dakota</option>
+                  <option value="Tennessee">Tennessee</option>
+                  <option value="Texas">Texas</option>
+                  <option value="Utah">Utah</option>
+                  <option value="Vermont">Vermont</option>
+                  <option value="Virgin Islands">Virgin Islands</option>
+                  <option value="Virginia">Virginia</option>
+                  <option value="Washington">Washington</option>
+                  <option value="West Virginia">West Virginia</option>
+                  <option value="Wisconsin">Wisconsin</option>
+                  <option value="Wyoming">Wyoming</option>
+                </select>                      
+              </div>
+              <div id="stateInput2">
+                <select name="stateInput2" onchange="stateInput2Changed(this)">
+                  <option value="Alabama" selected>Alabama</option>
+                  <option value="Alaska">Alaska</option>
+                  <option value="American Samoa">American Samoa</option>
+                  <option value="Arizona">Arizona</option>
+                  <option value="Arkansas">Arkansas</option>
+                  <option value="California" selected>California</option>
+                  <option value="Colorado">Colorado</option>
+                  <option value="Connecticut">Connecticut</option>
+                  <option value="Delaware">Delaware</option>
+                  <option value="Diamond Princess">Diamond Princess</option>
+                  <option value="District of Columbia">District of Columbia</option>
+                  <option value="Florida">Florida</option>
+                  <option value="Georgia">Georgia</option>
+                  <option value="Grand Princess">Grand Princess</option>
+                  <option value="Guam">Guam</option>
+                  <option value="Hawaii">Hawaii</option>
+                  <option value="Idaho">Idaho</option>
+                  <option value="Illinois">Illinois</option>
+                  <option value="Indiana">Indiana</option>
+                  <option value="Iowa">Iowa</option>
+                  <option value="Kansas">Kansas</option>
+                  <option value="Kentucky">Kentucky</option>
+                  <option value="Louisiana">Louisiana</option>
+                  <option value="Maine">Maine</option>
+                  <option value="Maryland">Maryland</option>
+                  <option value="Massachusetts">Massachusetts</option>
+                  <option value="Michigan">Michigan</option>
+                  <option value="Minnesota">Minnesota</option>
+                  <option value="Mississippi">Mississippi</option>
+                  <option value="Missouri">Missouri</option>
+                  <option value="Montana">Montana</option>
+                  <option value="Nebraska">Nebraska</option>
+                  <option value="Nevada">Nevada</option>
+                  <option value="New Hampshire">New Hampshire</option>
+                  <option value="New Jersey">New Jersey</option>
+                  <option value="New Mexico">New Mexico</option>
+                  <option value="New York">New York</option>
+                  <option value="North Carolina">North Carolina</option>
+                  <option value="North Dakota">North Dakota</option>
+                  <option value="Northern Mariana Islands">Northern Mariana Islands</option>
+                  <option value="Ohio">Ohio</option>
+                  <option value="Oklahoma">Oklahoma</option>
+                  <option value="Oregon">Oregon</option>
+                  <option value="Pennsylvania">Pennsylvania</option>
+                  <option value="Puerto Rico">Puerto Rico</option>
+                  <option value="Rhode Island">Rhode Island</option>
+                  <option value="South Carolina">South Carolina</option>
+                  <option value="South Dakota">South Dakota</option>
+                  <option value="Tennessee">Tennessee</option>
+                  <option value="Texas">Texas</option>
+                  <option value="Utah">Utah</option>
+                  <option value="Vermont">Vermont</option>
+                  <option value="Virgin Islands">Virgin Islands</option>
+                  <option value="Virginia">Virginia</option>
+                  <option value="Washington">Washington</option>
+                  <option value="West Virginia">West Virginia</option>
+                  <option value="Wisconsin">Wisconsin</option>
+                  <option value="Wyoming">Wyoming</option>
+                </select>
+              </div>
+            </div>
+            <div class="linechart-slider-wrapper">
+              <label for="lineChartSlider" class="lineChartSliderLabel">Select Date Range</label>
+              <div id="lineChartSlider"></div>
+              <span class="example-val" id="event-start"></span>
+              <span class="example-val" id="event-end"></span>
+            </div>
+              
+          </div>
+          <div id="linechart"></div>
+        </div>
+      </div>
+      <hr>
+      <div class="container-fluid" >
+        <div class="row">          
+          <div class="col-12">
+            <img src="recovered_cases.jpg" style="height: auto; width: auto; margin-bottom: 40px">
+          </div>
+        </div>
+      </div>
+
       <script src="script.js"></script>
     </body>
   </html>

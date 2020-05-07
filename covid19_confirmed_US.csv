@@ -1,4 +1,2266 @@
 ,Province_State,Date,Confirmed_Cases
+0,Alabama,2020-01-22,0
+1,Alaska,2020-01-22,0
+2,American Samoa,2020-01-22,0
+3,Arizona,2020-01-22,0
+4,Arkansas,2020-01-22,0
+5,California,2020-01-22,0
+6,Colorado,2020-01-22,0
+7,Connecticut,2020-01-22,0
+8,Delaware,2020-01-22,0
+9,Diamond Princess,2020-01-22,0
+10,District of Columbia,2020-01-22,0
+11,Florida,2020-01-22,0
+12,Georgia,2020-01-22,0
+13,Grand Princess,2020-01-22,0
+14,Guam,2020-01-22,0
+15,Hawaii,2020-01-22,0
+16,Idaho,2020-01-22,0
+17,Illinois,2020-01-22,0
+18,Indiana,2020-01-22,0
+19,Iowa,2020-01-22,0
+20,Kansas,2020-01-22,0
+21,Kentucky,2020-01-22,0
+22,Louisiana,2020-01-22,0
+23,Maine,2020-01-22,0
+24,Maryland,2020-01-22,0
+25,Massachusetts,2020-01-22,0
+26,Michigan,2020-01-22,0
+27,Minnesota,2020-01-22,0
+28,Mississippi,2020-01-22,0
+29,Missouri,2020-01-22,0
+30,Montana,2020-01-22,0
+31,Nebraska,2020-01-22,0
+32,Nevada,2020-01-22,0
+33,New Hampshire,2020-01-22,0
+34,New Jersey,2020-01-22,0
+35,New Mexico,2020-01-22,0
+36,New York,2020-01-22,0
+37,North Carolina,2020-01-22,0
+38,North Dakota,2020-01-22,0
+39,Northern Mariana Islands,2020-01-22,0
+40,Ohio,2020-01-22,0
+41,Oklahoma,2020-01-22,0
+42,Oregon,2020-01-22,0
+43,Pennsylvania,2020-01-22,0
+44,Puerto Rico,2020-01-22,0
+45,Rhode Island,2020-01-22,0
+46,South Carolina,2020-01-22,0
+47,South Dakota,2020-01-22,0
+48,Tennessee,2020-01-22,0
+49,Texas,2020-01-22,0
+50,Utah,2020-01-22,0
+51,Vermont,2020-01-22,0
+52,Virgin Islands,2020-01-22,0
+53,Virginia,2020-01-22,0
+54,Washington,2020-01-22,1
+55,West Virginia,2020-01-22,0
+56,Wisconsin,2020-01-22,0
+57,Wyoming,2020-01-22,0
+58,Alabama,2020-01-23,0
+59,Alaska,2020-01-23,0
+60,American Samoa,2020-01-23,0
+61,Arizona,2020-01-23,0
+62,Arkansas,2020-01-23,0
+63,California,2020-01-23,0
+64,Colorado,2020-01-23,0
+65,Connecticut,2020-01-23,0
+66,Delaware,2020-01-23,0
+67,Diamond Princess,2020-01-23,0
+68,District of Columbia,2020-01-23,0
+69,Florida,2020-01-23,0
+70,Georgia,2020-01-23,0
+71,Grand Princess,2020-01-23,0
+72,Guam,2020-01-23,0
+73,Hawaii,2020-01-23,0
+74,Idaho,2020-01-23,0
+75,Illinois,2020-01-23,0
+76,Indiana,2020-01-23,0
+77,Iowa,2020-01-23,0
+78,Kansas,2020-01-23,0
+79,Kentucky,2020-01-23,0
+80,Louisiana,2020-01-23,0
+81,Maine,2020-01-23,0
+82,Maryland,2020-01-23,0
+83,Massachusetts,2020-01-23,0
+84,Michigan,2020-01-23,0
+85,Minnesota,2020-01-23,0
+86,Mississippi,2020-01-23,0
+87,Missouri,2020-01-23,0
+88,Montana,2020-01-23,0
+89,Nebraska,2020-01-23,0
+90,Nevada,2020-01-23,0
+91,New Hampshire,2020-01-23,0
+92,New Jersey,2020-01-23,0
+93,New Mexico,2020-01-23,0
+94,New York,2020-01-23,0
+95,North Carolina,2020-01-23,0
+96,North Dakota,2020-01-23,0
+97,Northern Mariana Islands,2020-01-23,0
+98,Ohio,2020-01-23,0
+99,Oklahoma,2020-01-23,0
+100,Oregon,2020-01-23,0
+101,Pennsylvania,2020-01-23,0
+102,Puerto Rico,2020-01-23,0
+103,Rhode Island,2020-01-23,0
+104,South Carolina,2020-01-23,0
+105,South Dakota,2020-01-23,0
+106,Tennessee,2020-01-23,0
+107,Texas,2020-01-23,0
+108,Utah,2020-01-23,0
+109,Vermont,2020-01-23,0
+110,Virgin Islands,2020-01-23,0
+111,Virginia,2020-01-23,0
+112,Washington,2020-01-23,1
+113,West Virginia,2020-01-23,0
+114,Wisconsin,2020-01-23,0
+115,Wyoming,2020-01-23,0
+116,Alabama,2020-01-24,0
+117,Alaska,2020-01-24,0
+118,American Samoa,2020-01-24,0
+119,Arizona,2020-01-24,0
+120,Arkansas,2020-01-24,0
+121,California,2020-01-24,0
+122,Colorado,2020-01-24,0
+123,Connecticut,2020-01-24,0
+124,Delaware,2020-01-24,0
+125,Diamond Princess,2020-01-24,0
+126,District of Columbia,2020-01-24,0
+127,Florida,2020-01-24,0
+128,Georgia,2020-01-24,0
+129,Grand Princess,2020-01-24,0
+130,Guam,2020-01-24,0
+131,Hawaii,2020-01-24,0
+132,Idaho,2020-01-24,0
+133,Illinois,2020-01-24,1
+134,Indiana,2020-01-24,0
+135,Iowa,2020-01-24,0
+136,Kansas,2020-01-24,0
+137,Kentucky,2020-01-24,0
+138,Louisiana,2020-01-24,0
+139,Maine,2020-01-24,0
+140,Maryland,2020-01-24,0
+141,Massachusetts,2020-01-24,0
+142,Michigan,2020-01-24,0
+143,Minnesota,2020-01-24,0
+144,Mississippi,2020-01-24,0
+145,Missouri,2020-01-24,0
+146,Montana,2020-01-24,0
+147,Nebraska,2020-01-24,0
+148,Nevada,2020-01-24,0
+149,New Hampshire,2020-01-24,0
+150,New Jersey,2020-01-24,0
+151,New Mexico,2020-01-24,0
+152,New York,2020-01-24,0
+153,North Carolina,2020-01-24,0
+154,North Dakota,2020-01-24,0
+155,Northern Mariana Islands,2020-01-24,0
+156,Ohio,2020-01-24,0
+157,Oklahoma,2020-01-24,0
+158,Oregon,2020-01-24,0
+159,Pennsylvania,2020-01-24,0
+160,Puerto Rico,2020-01-24,0
+161,Rhode Island,2020-01-24,0
+162,South Carolina,2020-01-24,0
+163,South Dakota,2020-01-24,0
+164,Tennessee,2020-01-24,0
+165,Texas,2020-01-24,0
+166,Utah,2020-01-24,0
+167,Vermont,2020-01-24,0
+168,Virgin Islands,2020-01-24,0
+169,Virginia,2020-01-24,0
+170,Washington,2020-01-24,1
+171,West Virginia,2020-01-24,0
+172,Wisconsin,2020-01-24,0
+173,Wyoming,2020-01-24,0
+174,Alabama,2020-01-25,0
+175,Alaska,2020-01-25,0
+176,American Samoa,2020-01-25,0
+177,Arizona,2020-01-25,0
+178,Arkansas,2020-01-25,0
+179,California,2020-01-25,0
+180,Colorado,2020-01-25,0
+181,Connecticut,2020-01-25,0
+182,Delaware,2020-01-25,0
+183,Diamond Princess,2020-01-25,0
+184,District of Columbia,2020-01-25,0
+185,Florida,2020-01-25,0
+186,Georgia,2020-01-25,0
+187,Grand Princess,2020-01-25,0
+188,Guam,2020-01-25,0
+189,Hawaii,2020-01-25,0
+190,Idaho,2020-01-25,0
+191,Illinois,2020-01-25,1
+192,Indiana,2020-01-25,0
+193,Iowa,2020-01-25,0
+194,Kansas,2020-01-25,0
+195,Kentucky,2020-01-25,0
+196,Louisiana,2020-01-25,0
+197,Maine,2020-01-25,0
+198,Maryland,2020-01-25,0
+199,Massachusetts,2020-01-25,0
+200,Michigan,2020-01-25,0
+201,Minnesota,2020-01-25,0
+202,Mississippi,2020-01-25,0
+203,Missouri,2020-01-25,0
+204,Montana,2020-01-25,0
+205,Nebraska,2020-01-25,0
+206,Nevada,2020-01-25,0
+207,New Hampshire,2020-01-25,0
+208,New Jersey,2020-01-25,0
+209,New Mexico,2020-01-25,0
+210,New York,2020-01-25,0
+211,North Carolina,2020-01-25,0
+212,North Dakota,2020-01-25,0
+213,Northern Mariana Islands,2020-01-25,0
+214,Ohio,2020-01-25,0
+215,Oklahoma,2020-01-25,0
+216,Oregon,2020-01-25,0
+217,Pennsylvania,2020-01-25,0
+218,Puerto Rico,2020-01-25,0
+219,Rhode Island,2020-01-25,0
+220,South Carolina,2020-01-25,0
+221,South Dakota,2020-01-25,0
+222,Tennessee,2020-01-25,0
+223,Texas,2020-01-25,0
+224,Utah,2020-01-25,0
+225,Vermont,2020-01-25,0
+226,Virgin Islands,2020-01-25,0
+227,Virginia,2020-01-25,0
+228,Washington,2020-01-25,1
+229,West Virginia,2020-01-25,0
+230,Wisconsin,2020-01-25,0
+231,Wyoming,2020-01-25,0
+232,Alabama,2020-01-26,0
+233,Alaska,2020-01-26,0
+234,American Samoa,2020-01-26,0
+235,Arizona,2020-01-26,1
+236,Arkansas,2020-01-26,0
+237,California,2020-01-26,2
+238,Colorado,2020-01-26,0
+239,Connecticut,2020-01-26,0
+240,Delaware,2020-01-26,0
+241,Diamond Princess,2020-01-26,0
+242,District of Columbia,2020-01-26,0
+243,Florida,2020-01-26,0
+244,Georgia,2020-01-26,0
+245,Grand Princess,2020-01-26,0
+246,Guam,2020-01-26,0
+247,Hawaii,2020-01-26,0
+248,Idaho,2020-01-26,0
+249,Illinois,2020-01-26,1
+250,Indiana,2020-01-26,0
+251,Iowa,2020-01-26,0
+252,Kansas,2020-01-26,0
+253,Kentucky,2020-01-26,0
+254,Louisiana,2020-01-26,0
+255,Maine,2020-01-26,0
+256,Maryland,2020-01-26,0
+257,Massachusetts,2020-01-26,0
+258,Michigan,2020-01-26,0
+259,Minnesota,2020-01-26,0
+260,Mississippi,2020-01-26,0
+261,Missouri,2020-01-26,0
+262,Montana,2020-01-26,0
+263,Nebraska,2020-01-26,0
+264,Nevada,2020-01-26,0
+265,New Hampshire,2020-01-26,0
+266,New Jersey,2020-01-26,0
+267,New Mexico,2020-01-26,0
+268,New York,2020-01-26,0
+269,North Carolina,2020-01-26,0
+270,North Dakota,2020-01-26,0
+271,Northern Mariana Islands,2020-01-26,0
+272,Ohio,2020-01-26,0
+273,Oklahoma,2020-01-26,0
+274,Oregon,2020-01-26,0
+275,Pennsylvania,2020-01-26,0
+276,Puerto Rico,2020-01-26,0
+277,Rhode Island,2020-01-26,0
+278,South Carolina,2020-01-26,0
+279,South Dakota,2020-01-26,0
+280,Tennessee,2020-01-26,0
+281,Texas,2020-01-26,0
+282,Utah,2020-01-26,0
+283,Vermont,2020-01-26,0
+284,Virgin Islands,2020-01-26,0
+285,Virginia,2020-01-26,0
+286,Washington,2020-01-26,1
+287,West Virginia,2020-01-26,0
+288,Wisconsin,2020-01-26,0
+289,Wyoming,2020-01-26,0
+290,Alabama,2020-01-27,0
+291,Alaska,2020-01-27,0
+292,American Samoa,2020-01-27,0
+293,Arizona,2020-01-27,1
+294,Arkansas,2020-01-27,0
+295,California,2020-01-27,2
+296,Colorado,2020-01-27,0
+297,Connecticut,2020-01-27,0
+298,Delaware,2020-01-27,0
+299,Diamond Princess,2020-01-27,0
+300,District of Columbia,2020-01-27,0
+301,Florida,2020-01-27,0
+302,Georgia,2020-01-27,0
+303,Grand Princess,2020-01-27,0
+304,Guam,2020-01-27,0
+305,Hawaii,2020-01-27,0
+306,Idaho,2020-01-27,0
+307,Illinois,2020-01-27,1
+308,Indiana,2020-01-27,0
+309,Iowa,2020-01-27,0
+310,Kansas,2020-01-27,0
+311,Kentucky,2020-01-27,0
+312,Louisiana,2020-01-27,0
+313,Maine,2020-01-27,0
+314,Maryland,2020-01-27,0
+315,Massachusetts,2020-01-27,0
+316,Michigan,2020-01-27,0
+317,Minnesota,2020-01-27,0
+318,Mississippi,2020-01-27,0
+319,Missouri,2020-01-27,0
+320,Montana,2020-01-27,0
+321,Nebraska,2020-01-27,0
+322,Nevada,2020-01-27,0
+323,New Hampshire,2020-01-27,0
+324,New Jersey,2020-01-27,0
+325,New Mexico,2020-01-27,0
+326,New York,2020-01-27,0
+327,North Carolina,2020-01-27,0
+328,North Dakota,2020-01-27,0
+329,Northern Mariana Islands,2020-01-27,0
+330,Ohio,2020-01-27,0
+331,Oklahoma,2020-01-27,0
+332,Oregon,2020-01-27,0
+333,Pennsylvania,2020-01-27,0
+334,Puerto Rico,2020-01-27,0
+335,Rhode Island,2020-01-27,0
+336,South Carolina,2020-01-27,0
+337,South Dakota,2020-01-27,0
+338,Tennessee,2020-01-27,0
+339,Texas,2020-01-27,0
+340,Utah,2020-01-27,0
+341,Vermont,2020-01-27,0
+342,Virgin Islands,2020-01-27,0
+343,Virginia,2020-01-27,0
+344,Washington,2020-01-27,1
+345,West Virginia,2020-01-27,0
+346,Wisconsin,2020-01-27,0
+347,Wyoming,2020-01-27,0
+348,Alabama,2020-01-28,0
+349,Alaska,2020-01-28,0
+350,American Samoa,2020-01-28,0
+351,Arizona,2020-01-28,1
+352,Arkansas,2020-01-28,0
+353,California,2020-01-28,2
+354,Colorado,2020-01-28,0
+355,Connecticut,2020-01-28,0
+356,Delaware,2020-01-28,0
+357,Diamond Princess,2020-01-28,0
+358,District of Columbia,2020-01-28,0
+359,Florida,2020-01-28,0
+360,Georgia,2020-01-28,0
+361,Grand Princess,2020-01-28,0
+362,Guam,2020-01-28,0
+363,Hawaii,2020-01-28,0
+364,Idaho,2020-01-28,0
+365,Illinois,2020-01-28,1
+366,Indiana,2020-01-28,0
+367,Iowa,2020-01-28,0
+368,Kansas,2020-01-28,0
+369,Kentucky,2020-01-28,0
+370,Louisiana,2020-01-28,0
+371,Maine,2020-01-28,0
+372,Maryland,2020-01-28,0
+373,Massachusetts,2020-01-28,0
+374,Michigan,2020-01-28,0
+375,Minnesota,2020-01-28,0
+376,Mississippi,2020-01-28,0
+377,Missouri,2020-01-28,0
+378,Montana,2020-01-28,0
+379,Nebraska,2020-01-28,0
+380,Nevada,2020-01-28,0
+381,New Hampshire,2020-01-28,0
+382,New Jersey,2020-01-28,0
+383,New Mexico,2020-01-28,0
+384,New York,2020-01-28,0
+385,North Carolina,2020-01-28,0
+386,North Dakota,2020-01-28,0
+387,Northern Mariana Islands,2020-01-28,0
+388,Ohio,2020-01-28,0
+389,Oklahoma,2020-01-28,0
+390,Oregon,2020-01-28,0
+391,Pennsylvania,2020-01-28,0
+392,Puerto Rico,2020-01-28,0
+393,Rhode Island,2020-01-28,0
+394,South Carolina,2020-01-28,0
+395,South Dakota,2020-01-28,0
+396,Tennessee,2020-01-28,0
+397,Texas,2020-01-28,0
+398,Utah,2020-01-28,0
+399,Vermont,2020-01-28,0
+400,Virgin Islands,2020-01-28,0
+401,Virginia,2020-01-28,0
+402,Washington,2020-01-28,1
+403,West Virginia,2020-01-28,0
+404,Wisconsin,2020-01-28,0
+405,Wyoming,2020-01-28,0
+406,Alabama,2020-01-29,0
+407,Alaska,2020-01-29,0
+408,American Samoa,2020-01-29,0
+409,Arizona,2020-01-29,1
+410,Arkansas,2020-01-29,0
+411,California,2020-01-29,2
+412,Colorado,2020-01-29,0
+413,Connecticut,2020-01-29,0
+414,Delaware,2020-01-29,0
+415,Diamond Princess,2020-01-29,0
+416,District of Columbia,2020-01-29,0
+417,Florida,2020-01-29,0
+418,Georgia,2020-01-29,0
+419,Grand Princess,2020-01-29,0
+420,Guam,2020-01-29,0
+421,Hawaii,2020-01-29,0
+422,Idaho,2020-01-29,0
+423,Illinois,2020-01-29,1
+424,Indiana,2020-01-29,0
+425,Iowa,2020-01-29,0
+426,Kansas,2020-01-29,0
+427,Kentucky,2020-01-29,0
+428,Louisiana,2020-01-29,0
+429,Maine,2020-01-29,0
+430,Maryland,2020-01-29,0
+431,Massachusetts,2020-01-29,0
+432,Michigan,2020-01-29,0
+433,Minnesota,2020-01-29,0
+434,Mississippi,2020-01-29,0
+435,Missouri,2020-01-29,0
+436,Montana,2020-01-29,0
+437,Nebraska,2020-01-29,0
+438,Nevada,2020-01-29,0
+439,New Hampshire,2020-01-29,0
+440,New Jersey,2020-01-29,0
+441,New Mexico,2020-01-29,0
+442,New York,2020-01-29,0
+443,North Carolina,2020-01-29,0
+444,North Dakota,2020-01-29,0
+445,Northern Mariana Islands,2020-01-29,0
+446,Ohio,2020-01-29,0
+447,Oklahoma,2020-01-29,0
+448,Oregon,2020-01-29,0
+449,Pennsylvania,2020-01-29,0
+450,Puerto Rico,2020-01-29,0
+451,Rhode Island,2020-01-29,0
+452,South Carolina,2020-01-29,0
+453,South Dakota,2020-01-29,0
+454,Tennessee,2020-01-29,0
+455,Texas,2020-01-29,0
+456,Utah,2020-01-29,0
+457,Vermont,2020-01-29,0
+458,Virgin Islands,2020-01-29,0
+459,Virginia,2020-01-29,0
+460,Washington,2020-01-29,1
+461,West Virginia,2020-01-29,0
+462,Wisconsin,2020-01-29,0
+463,Wyoming,2020-01-29,0
+464,Alabama,2020-01-30,0
+465,Alaska,2020-01-30,0
+466,American Samoa,2020-01-30,0
+467,Arizona,2020-01-30,1
+468,Arkansas,2020-01-30,0
+469,California,2020-01-30,2
+470,Colorado,2020-01-30,0
+471,Connecticut,2020-01-30,0
+472,Delaware,2020-01-30,0
+473,Diamond Princess,2020-01-30,0
+474,District of Columbia,2020-01-30,0
+475,Florida,2020-01-30,0
+476,Georgia,2020-01-30,0
+477,Grand Princess,2020-01-30,0
+478,Guam,2020-01-30,0
+479,Hawaii,2020-01-30,0
+480,Idaho,2020-01-30,0
+481,Illinois,2020-01-30,1
+482,Indiana,2020-01-30,0
+483,Iowa,2020-01-30,0
+484,Kansas,2020-01-30,0
+485,Kentucky,2020-01-30,0
+486,Louisiana,2020-01-30,0
+487,Maine,2020-01-30,0
+488,Maryland,2020-01-30,0
+489,Massachusetts,2020-01-30,0
+490,Michigan,2020-01-30,0
+491,Minnesota,2020-01-30,0
+492,Mississippi,2020-01-30,0
+493,Missouri,2020-01-30,0
+494,Montana,2020-01-30,0
+495,Nebraska,2020-01-30,0
+496,Nevada,2020-01-30,0
+497,New Hampshire,2020-01-30,0
+498,New Jersey,2020-01-30,0
+499,New Mexico,2020-01-30,0
+500,New York,2020-01-30,0
+501,North Carolina,2020-01-30,0
+502,North Dakota,2020-01-30,0
+503,Northern Mariana Islands,2020-01-30,0
+504,Ohio,2020-01-30,0
+505,Oklahoma,2020-01-30,0
+506,Oregon,2020-01-30,0
+507,Pennsylvania,2020-01-30,0
+508,Puerto Rico,2020-01-30,0
+509,Rhode Island,2020-01-30,0
+510,South Carolina,2020-01-30,0
+511,South Dakota,2020-01-30,0
+512,Tennessee,2020-01-30,0
+513,Texas,2020-01-30,0
+514,Utah,2020-01-30,0
+515,Vermont,2020-01-30,0
+516,Virgin Islands,2020-01-30,0
+517,Virginia,2020-01-30,0
+518,Washington,2020-01-30,1
+519,West Virginia,2020-01-30,0
+520,Wisconsin,2020-01-30,0
+521,Wyoming,2020-01-30,0
+522,Alabama,2020-01-31,0
+523,Alaska,2020-01-31,0
+524,American Samoa,2020-01-31,0
+525,Arizona,2020-01-31,1
+526,Arkansas,2020-01-31,0
+527,California,2020-01-31,3
+528,Colorado,2020-01-31,0
+529,Connecticut,2020-01-31,0
+530,Delaware,2020-01-31,0
+531,Diamond Princess,2020-01-31,0
+532,District of Columbia,2020-01-31,0
+533,Florida,2020-01-31,0
+534,Georgia,2020-01-31,0
+535,Grand Princess,2020-01-31,0
+536,Guam,2020-01-31,0
+537,Hawaii,2020-01-31,0
+538,Idaho,2020-01-31,0
+539,Illinois,2020-01-31,2
+540,Indiana,2020-01-31,0
+541,Iowa,2020-01-31,0
+542,Kansas,2020-01-31,0
+543,Kentucky,2020-01-31,0
+544,Louisiana,2020-01-31,0
+545,Maine,2020-01-31,0
+546,Maryland,2020-01-31,0
+547,Massachusetts,2020-01-31,0
+548,Michigan,2020-01-31,0
+549,Minnesota,2020-01-31,0
+550,Mississippi,2020-01-31,0
+551,Missouri,2020-01-31,0
+552,Montana,2020-01-31,0
+553,Nebraska,2020-01-31,0
+554,Nevada,2020-01-31,0
+555,New Hampshire,2020-01-31,0
+556,New Jersey,2020-01-31,0
+557,New Mexico,2020-01-31,0
+558,New York,2020-01-31,0
+559,North Carolina,2020-01-31,0
+560,North Dakota,2020-01-31,0
+561,Northern Mariana Islands,2020-01-31,0
+562,Ohio,2020-01-31,0
+563,Oklahoma,2020-01-31,0
+564,Oregon,2020-01-31,0
+565,Pennsylvania,2020-01-31,0
+566,Puerto Rico,2020-01-31,0
+567,Rhode Island,2020-01-31,0
+568,South Carolina,2020-01-31,0
+569,South Dakota,2020-01-31,0
+570,Tennessee,2020-01-31,0
+571,Texas,2020-01-31,0
+572,Utah,2020-01-31,0
+573,Vermont,2020-01-31,0
+574,Virgin Islands,2020-01-31,0
+575,Virginia,2020-01-31,0
+576,Washington,2020-01-31,1
+577,West Virginia,2020-01-31,0
+578,Wisconsin,2020-01-31,0
+579,Wyoming,2020-01-31,0
+580,Alabama,2020-02-01,0
+581,Alaska,2020-02-01,0
+582,American Samoa,2020-02-01,0
+583,Arizona,2020-02-01,1
+584,Arkansas,2020-02-01,0
+585,California,2020-02-01,3
+586,Colorado,2020-02-01,0
+587,Connecticut,2020-02-01,0
+588,Delaware,2020-02-01,0
+589,Diamond Princess,2020-02-01,0
+590,District of Columbia,2020-02-01,0
+591,Florida,2020-02-01,0
+592,Georgia,2020-02-01,0
+593,Grand Princess,2020-02-01,0
+594,Guam,2020-02-01,0
+595,Hawaii,2020-02-01,0
+596,Idaho,2020-02-01,0
+597,Illinois,2020-02-01,2
+598,Indiana,2020-02-01,0
+599,Iowa,2020-02-01,0
+600,Kansas,2020-02-01,0
+601,Kentucky,2020-02-01,0
+602,Louisiana,2020-02-01,0
+603,Maine,2020-02-01,0
+604,Maryland,2020-02-01,0
+605,Massachusetts,2020-02-01,1
+606,Michigan,2020-02-01,0
+607,Minnesota,2020-02-01,0
+608,Mississippi,2020-02-01,0
+609,Missouri,2020-02-01,0
+610,Montana,2020-02-01,0
+611,Nebraska,2020-02-01,0
+612,Nevada,2020-02-01,0
+613,New Hampshire,2020-02-01,0
+614,New Jersey,2020-02-01,0
+615,New Mexico,2020-02-01,0
+616,New York,2020-02-01,0
+617,North Carolina,2020-02-01,0
+618,North Dakota,2020-02-01,0
+619,Northern Mariana Islands,2020-02-01,0
+620,Ohio,2020-02-01,0
+621,Oklahoma,2020-02-01,0
+622,Oregon,2020-02-01,0
+623,Pennsylvania,2020-02-01,0
+624,Puerto Rico,2020-02-01,0
+625,Rhode Island,2020-02-01,0
+626,South Carolina,2020-02-01,0
+627,South Dakota,2020-02-01,0
+628,Tennessee,2020-02-01,0
+629,Texas,2020-02-01,0
+630,Utah,2020-02-01,0
+631,Vermont,2020-02-01,0
+632,Virgin Islands,2020-02-01,0
+633,Virginia,2020-02-01,0
+634,Washington,2020-02-01,1
+635,West Virginia,2020-02-01,0
+636,Wisconsin,2020-02-01,0
+637,Wyoming,2020-02-01,0
+638,Alabama,2020-02-02,0
+639,Alaska,2020-02-02,0
+640,American Samoa,2020-02-02,0
+641,Arizona,2020-02-02,1
+642,Arkansas,2020-02-02,0
+643,California,2020-02-02,3
+644,Colorado,2020-02-02,0
+645,Connecticut,2020-02-02,0
+646,Delaware,2020-02-02,0
+647,Diamond Princess,2020-02-02,0
+648,District of Columbia,2020-02-02,0
+649,Florida,2020-02-02,0
+650,Georgia,2020-02-02,0
+651,Grand Princess,2020-02-02,0
+652,Guam,2020-02-02,0
+653,Hawaii,2020-02-02,0
+654,Idaho,2020-02-02,0
+655,Illinois,2020-02-02,2
+656,Indiana,2020-02-02,0
+657,Iowa,2020-02-02,0
+658,Kansas,2020-02-02,0
+659,Kentucky,2020-02-02,0
+660,Louisiana,2020-02-02,0
+661,Maine,2020-02-02,0
+662,Maryland,2020-02-02,0
+663,Massachusetts,2020-02-02,1
+664,Michigan,2020-02-02,0
+665,Minnesota,2020-02-02,0
+666,Mississippi,2020-02-02,0
+667,Missouri,2020-02-02,0
+668,Montana,2020-02-02,0
+669,Nebraska,2020-02-02,0
+670,Nevada,2020-02-02,0
+671,New Hampshire,2020-02-02,0
+672,New Jersey,2020-02-02,0
+673,New Mexico,2020-02-02,0
+674,New York,2020-02-02,0
+675,North Carolina,2020-02-02,0
+676,North Dakota,2020-02-02,0
+677,Northern Mariana Islands,2020-02-02,0
+678,Ohio,2020-02-02,0
+679,Oklahoma,2020-02-02,0
+680,Oregon,2020-02-02,0
+681,Pennsylvania,2020-02-02,0
+682,Puerto Rico,2020-02-02,0
+683,Rhode Island,2020-02-02,0
+684,South Carolina,2020-02-02,0
+685,South Dakota,2020-02-02,0
+686,Tennessee,2020-02-02,0
+687,Texas,2020-02-02,0
+688,Utah,2020-02-02,0
+689,Vermont,2020-02-02,0
+690,Virgin Islands,2020-02-02,0
+691,Virginia,2020-02-02,0
+692,Washington,2020-02-02,1
+693,West Virginia,2020-02-02,0
+694,Wisconsin,2020-02-02,0
+695,Wyoming,2020-02-02,0
+696,Alabama,2020-02-03,0
+697,Alaska,2020-02-03,0
+698,American Samoa,2020-02-03,0
+699,Arizona,2020-02-03,1
+700,Arkansas,2020-02-03,0
+701,California,2020-02-03,6
+702,Colorado,2020-02-03,0
+703,Connecticut,2020-02-03,0
+704,Delaware,2020-02-03,0
+705,Diamond Princess,2020-02-03,0
+706,District of Columbia,2020-02-03,0
+707,Florida,2020-02-03,0
+708,Georgia,2020-02-03,0
+709,Grand Princess,2020-02-03,0
+710,Guam,2020-02-03,0
+711,Hawaii,2020-02-03,0
+712,Idaho,2020-02-03,0
+713,Illinois,2020-02-03,2
+714,Indiana,2020-02-03,0
+715,Iowa,2020-02-03,0
+716,Kansas,2020-02-03,0
+717,Kentucky,2020-02-03,0
+718,Louisiana,2020-02-03,0
+719,Maine,2020-02-03,0
+720,Maryland,2020-02-03,0
+721,Massachusetts,2020-02-03,1
+722,Michigan,2020-02-03,0
+723,Minnesota,2020-02-03,0
+724,Mississippi,2020-02-03,0
+725,Missouri,2020-02-03,0
+726,Montana,2020-02-03,0
+727,Nebraska,2020-02-03,0
+728,Nevada,2020-02-03,0
+729,New Hampshire,2020-02-03,0
+730,New Jersey,2020-02-03,0
+731,New Mexico,2020-02-03,0
+732,New York,2020-02-03,0
+733,North Carolina,2020-02-03,0
+734,North Dakota,2020-02-03,0
+735,Northern Mariana Islands,2020-02-03,0
+736,Ohio,2020-02-03,0
+737,Oklahoma,2020-02-03,0
+738,Oregon,2020-02-03,0
+739,Pennsylvania,2020-02-03,0
+740,Puerto Rico,2020-02-03,0
+741,Rhode Island,2020-02-03,0
+742,South Carolina,2020-02-03,0
+743,South Dakota,2020-02-03,0
+744,Tennessee,2020-02-03,0
+745,Texas,2020-02-03,0
+746,Utah,2020-02-03,0
+747,Vermont,2020-02-03,0
+748,Virgin Islands,2020-02-03,0
+749,Virginia,2020-02-03,0
+750,Washington,2020-02-03,1
+751,West Virginia,2020-02-03,0
+752,Wisconsin,2020-02-03,0
+753,Wyoming,2020-02-03,0
+754,Alabama,2020-02-04,0
+755,Alaska,2020-02-04,0
+756,American Samoa,2020-02-04,0
+757,Arizona,2020-02-04,1
+758,Arkansas,2020-02-04,0
+759,California,2020-02-04,6
+760,Colorado,2020-02-04,0
+761,Connecticut,2020-02-04,0
+762,Delaware,2020-02-04,0
+763,Diamond Princess,2020-02-04,0
+764,District of Columbia,2020-02-04,0
+765,Florida,2020-02-04,0
+766,Georgia,2020-02-04,0
+767,Grand Princess,2020-02-04,0
+768,Guam,2020-02-04,0
+769,Hawaii,2020-02-04,0
+770,Idaho,2020-02-04,0
+771,Illinois,2020-02-04,2
+772,Indiana,2020-02-04,0
+773,Iowa,2020-02-04,0
+774,Kansas,2020-02-04,0
+775,Kentucky,2020-02-04,0
+776,Louisiana,2020-02-04,0
+777,Maine,2020-02-04,0
+778,Maryland,2020-02-04,0
+779,Massachusetts,2020-02-04,1
+780,Michigan,2020-02-04,0
+781,Minnesota,2020-02-04,0
+782,Mississippi,2020-02-04,0
+783,Missouri,2020-02-04,0
+784,Montana,2020-02-04,0
+785,Nebraska,2020-02-04,0
+786,Nevada,2020-02-04,0
+787,New Hampshire,2020-02-04,0
+788,New Jersey,2020-02-04,0
+789,New Mexico,2020-02-04,0
+790,New York,2020-02-04,0
+791,North Carolina,2020-02-04,0
+792,North Dakota,2020-02-04,0
+793,Northern Mariana Islands,2020-02-04,0
+794,Ohio,2020-02-04,0
+795,Oklahoma,2020-02-04,0
+796,Oregon,2020-02-04,0
+797,Pennsylvania,2020-02-04,0
+798,Puerto Rico,2020-02-04,0
+799,Rhode Island,2020-02-04,0
+800,South Carolina,2020-02-04,0
+801,South Dakota,2020-02-04,0
+802,Tennessee,2020-02-04,0
+803,Texas,2020-02-04,0
+804,Utah,2020-02-04,0
+805,Vermont,2020-02-04,0
+806,Virgin Islands,2020-02-04,0
+807,Virginia,2020-02-04,0
+808,Washington,2020-02-04,1
+809,West Virginia,2020-02-04,0
+810,Wisconsin,2020-02-04,0
+811,Wyoming,2020-02-04,0
+812,Alabama,2020-02-05,0
+813,Alaska,2020-02-05,0
+814,American Samoa,2020-02-05,0
+815,Arizona,2020-02-05,1
+816,Arkansas,2020-02-05,0
+817,California,2020-02-05,6
+818,Colorado,2020-02-05,0
+819,Connecticut,2020-02-05,0
+820,Delaware,2020-02-05,0
+821,Diamond Princess,2020-02-05,0
+822,District of Columbia,2020-02-05,0
+823,Florida,2020-02-05,0
+824,Georgia,2020-02-05,0
+825,Grand Princess,2020-02-05,0
+826,Guam,2020-02-05,0
+827,Hawaii,2020-02-05,0
+828,Idaho,2020-02-05,0
+829,Illinois,2020-02-05,2
+830,Indiana,2020-02-05,0
+831,Iowa,2020-02-05,0
+832,Kansas,2020-02-05,0
+833,Kentucky,2020-02-05,0
+834,Louisiana,2020-02-05,0
+835,Maine,2020-02-05,0
+836,Maryland,2020-02-05,0
+837,Massachusetts,2020-02-05,1
+838,Michigan,2020-02-05,0
+839,Minnesota,2020-02-05,0
+840,Mississippi,2020-02-05,0
+841,Missouri,2020-02-05,0
+842,Montana,2020-02-05,0
+843,Nebraska,2020-02-05,0
+844,Nevada,2020-02-05,0
+845,New Hampshire,2020-02-05,0
+846,New Jersey,2020-02-05,0
+847,New Mexico,2020-02-05,0
+848,New York,2020-02-05,0
+849,North Carolina,2020-02-05,0
+850,North Dakota,2020-02-05,0
+851,Northern Mariana Islands,2020-02-05,0
+852,Ohio,2020-02-05,0
+853,Oklahoma,2020-02-05,0
+854,Oregon,2020-02-05,0
+855,Pennsylvania,2020-02-05,0
+856,Puerto Rico,2020-02-05,0
+857,Rhode Island,2020-02-05,0
+858,South Carolina,2020-02-05,0
+859,South Dakota,2020-02-05,0
+860,Tennessee,2020-02-05,0
+861,Texas,2020-02-05,0
+862,Utah,2020-02-05,0
+863,Vermont,2020-02-05,0
+864,Virgin Islands,2020-02-05,0
+865,Virginia,2020-02-05,0
+866,Washington,2020-02-05,1
+867,West Virginia,2020-02-05,0
+868,Wisconsin,2020-02-05,0
+869,Wyoming,2020-02-05,0
+870,Alabama,2020-02-06,0
+871,Alaska,2020-02-06,0
+872,American Samoa,2020-02-06,0
+873,Arizona,2020-02-06,1
+874,Arkansas,2020-02-06,0
+875,California,2020-02-06,6
+876,Colorado,2020-02-06,0
+877,Connecticut,2020-02-06,0
+878,Delaware,2020-02-06,0
+879,Diamond Princess,2020-02-06,0
+880,District of Columbia,2020-02-06,0
+881,Florida,2020-02-06,0
+882,Georgia,2020-02-06,0
+883,Grand Princess,2020-02-06,0
+884,Guam,2020-02-06,0
+885,Hawaii,2020-02-06,0
+886,Idaho,2020-02-06,0
+887,Illinois,2020-02-06,2
+888,Indiana,2020-02-06,0
+889,Iowa,2020-02-06,0
+890,Kansas,2020-02-06,0
+891,Kentucky,2020-02-06,0
+892,Louisiana,2020-02-06,0
+893,Maine,2020-02-06,0
+894,Maryland,2020-02-06,0
+895,Massachusetts,2020-02-06,1
+896,Michigan,2020-02-06,0
+897,Minnesota,2020-02-06,0
+898,Mississippi,2020-02-06,0
+899,Missouri,2020-02-06,0
+900,Montana,2020-02-06,0
+901,Nebraska,2020-02-06,0
+902,Nevada,2020-02-06,0
+903,New Hampshire,2020-02-06,0
+904,New Jersey,2020-02-06,0
+905,New Mexico,2020-02-06,0
+906,New York,2020-02-06,0
+907,North Carolina,2020-02-06,0
+908,North Dakota,2020-02-06,0
+909,Northern Mariana Islands,2020-02-06,0
+910,Ohio,2020-02-06,0
+911,Oklahoma,2020-02-06,0
+912,Oregon,2020-02-06,0
+913,Pennsylvania,2020-02-06,0
+914,Puerto Rico,2020-02-06,0
+915,Rhode Island,2020-02-06,0
+916,South Carolina,2020-02-06,0
+917,South Dakota,2020-02-06,0
+918,Tennessee,2020-02-06,0
+919,Texas,2020-02-06,0
+920,Utah,2020-02-06,0
+921,Vermont,2020-02-06,0
+922,Virgin Islands,2020-02-06,0
+923,Virginia,2020-02-06,0
+924,Washington,2020-02-06,1
+925,West Virginia,2020-02-06,0
+926,Wisconsin,2020-02-06,0
+927,Wyoming,2020-02-06,0
+928,Alabama,2020-02-07,0
+929,Alaska,2020-02-07,0
+930,American Samoa,2020-02-07,0
+931,Arizona,2020-02-07,1
+932,Arkansas,2020-02-07,0
+933,California,2020-02-07,6
+934,Colorado,2020-02-07,0
+935,Connecticut,2020-02-07,0
+936,Delaware,2020-02-07,0
+937,Diamond Princess,2020-02-07,0
+938,District of Columbia,2020-02-07,0
+939,Florida,2020-02-07,0
+940,Georgia,2020-02-07,0
+941,Grand Princess,2020-02-07,0
+942,Guam,2020-02-07,0
+943,Hawaii,2020-02-07,0
+944,Idaho,2020-02-07,0
+945,Illinois,2020-02-07,2
+946,Indiana,2020-02-07,0
+947,Iowa,2020-02-07,0
+948,Kansas,2020-02-07,0
+949,Kentucky,2020-02-07,0
+950,Louisiana,2020-02-07,0
+951,Maine,2020-02-07,0
+952,Maryland,2020-02-07,0
+953,Massachusetts,2020-02-07,1
+954,Michigan,2020-02-07,0
+955,Minnesota,2020-02-07,0
+956,Mississippi,2020-02-07,0
+957,Missouri,2020-02-07,0
+958,Montana,2020-02-07,0
+959,Nebraska,2020-02-07,0
+960,Nevada,2020-02-07,0
+961,New Hampshire,2020-02-07,0
+962,New Jersey,2020-02-07,0
+963,New Mexico,2020-02-07,0
+964,New York,2020-02-07,0
+965,North Carolina,2020-02-07,0
+966,North Dakota,2020-02-07,0
+967,Northern Mariana Islands,2020-02-07,0
+968,Ohio,2020-02-07,0
+969,Oklahoma,2020-02-07,0
+970,Oregon,2020-02-07,0
+971,Pennsylvania,2020-02-07,0
+972,Puerto Rico,2020-02-07,0
+973,Rhode Island,2020-02-07,0
+974,South Carolina,2020-02-07,0
+975,South Dakota,2020-02-07,0
+976,Tennessee,2020-02-07,0
+977,Texas,2020-02-07,0
+978,Utah,2020-02-07,0
+979,Vermont,2020-02-07,0
+980,Virgin Islands,2020-02-07,0
+981,Virginia,2020-02-07,0
+982,Washington,2020-02-07,1
+983,West Virginia,2020-02-07,0
+984,Wisconsin,2020-02-07,0
+985,Wyoming,2020-02-07,0
+986,Alabama,2020-02-08,0
+987,Alaska,2020-02-08,0
+988,American Samoa,2020-02-08,0
+989,Arizona,2020-02-08,1
+990,Arkansas,2020-02-08,0
+991,California,2020-02-08,6
+992,Colorado,2020-02-08,0
+993,Connecticut,2020-02-08,0
+994,Delaware,2020-02-08,0
+995,Diamond Princess,2020-02-08,0
+996,District of Columbia,2020-02-08,0
+997,Florida,2020-02-08,0
+998,Georgia,2020-02-08,0
+999,Grand Princess,2020-02-08,0
+1000,Guam,2020-02-08,0
+1001,Hawaii,2020-02-08,0
+1002,Idaho,2020-02-08,0
+1003,Illinois,2020-02-08,2
+1004,Indiana,2020-02-08,0
+1005,Iowa,2020-02-08,0
+1006,Kansas,2020-02-08,0
+1007,Kentucky,2020-02-08,0
+1008,Louisiana,2020-02-08,0
+1009,Maine,2020-02-08,0
+1010,Maryland,2020-02-08,0
+1011,Massachusetts,2020-02-08,1
+1012,Michigan,2020-02-08,0
+1013,Minnesota,2020-02-08,0
+1014,Mississippi,2020-02-08,0
+1015,Missouri,2020-02-08,0
+1016,Montana,2020-02-08,0
+1017,Nebraska,2020-02-08,0
+1018,Nevada,2020-02-08,0
+1019,New Hampshire,2020-02-08,0
+1020,New Jersey,2020-02-08,0
+1021,New Mexico,2020-02-08,0
+1022,New York,2020-02-08,0
+1023,North Carolina,2020-02-08,0
+1024,North Dakota,2020-02-08,0
+1025,Northern Mariana Islands,2020-02-08,0
+1026,Ohio,2020-02-08,0
+1027,Oklahoma,2020-02-08,0
+1028,Oregon,2020-02-08,0
+1029,Pennsylvania,2020-02-08,0
+1030,Puerto Rico,2020-02-08,0
+1031,Rhode Island,2020-02-08,0
+1032,South Carolina,2020-02-08,0
+1033,South Dakota,2020-02-08,0
+1034,Tennessee,2020-02-08,0
+1035,Texas,2020-02-08,0
+1036,Utah,2020-02-08,0
+1037,Vermont,2020-02-08,0
+1038,Virgin Islands,2020-02-08,0
+1039,Virginia,2020-02-08,0
+1040,Washington,2020-02-08,1
+1041,West Virginia,2020-02-08,0
+1042,Wisconsin,2020-02-08,0
+1043,Wyoming,2020-02-08,0
+1044,Alabama,2020-02-09,0
+1045,Alaska,2020-02-09,0
+1046,American Samoa,2020-02-09,0
+1047,Arizona,2020-02-09,1
+1048,Arkansas,2020-02-09,0
+1049,California,2020-02-09,6
+1050,Colorado,2020-02-09,0
+1051,Connecticut,2020-02-09,0
+1052,Delaware,2020-02-09,0
+1053,Diamond Princess,2020-02-09,0
+1054,District of Columbia,2020-02-09,0
+1055,Florida,2020-02-09,0
+1056,Georgia,2020-02-09,0
+1057,Grand Princess,2020-02-09,0
+1058,Guam,2020-02-09,0
+1059,Hawaii,2020-02-09,0
+1060,Idaho,2020-02-09,0
+1061,Illinois,2020-02-09,2
+1062,Indiana,2020-02-09,0
+1063,Iowa,2020-02-09,0
+1064,Kansas,2020-02-09,0
+1065,Kentucky,2020-02-09,0
+1066,Louisiana,2020-02-09,0
+1067,Maine,2020-02-09,0
+1068,Maryland,2020-02-09,0
+1069,Massachusetts,2020-02-09,1
+1070,Michigan,2020-02-09,0
+1071,Minnesota,2020-02-09,0
+1072,Mississippi,2020-02-09,0
+1073,Missouri,2020-02-09,0
+1074,Montana,2020-02-09,0
+1075,Nebraska,2020-02-09,0
+1076,Nevada,2020-02-09,0
+1077,New Hampshire,2020-02-09,0
+1078,New Jersey,2020-02-09,0
+1079,New Mexico,2020-02-09,0
+1080,New York,2020-02-09,0
+1081,North Carolina,2020-02-09,0
+1082,North Dakota,2020-02-09,0
+1083,Northern Mariana Islands,2020-02-09,0
+1084,Ohio,2020-02-09,0
+1085,Oklahoma,2020-02-09,0
+1086,Oregon,2020-02-09,0
+1087,Pennsylvania,2020-02-09,0
+1088,Puerto Rico,2020-02-09,0
+1089,Rhode Island,2020-02-09,0
+1090,South Carolina,2020-02-09,0
+1091,South Dakota,2020-02-09,0
+1092,Tennessee,2020-02-09,0
+1093,Texas,2020-02-09,0
+1094,Utah,2020-02-09,0
+1095,Vermont,2020-02-09,0
+1096,Virgin Islands,2020-02-09,0
+1097,Virginia,2020-02-09,0
+1098,Washington,2020-02-09,1
+1099,West Virginia,2020-02-09,0
+1100,Wisconsin,2020-02-09,0
+1101,Wyoming,2020-02-09,0
+1102,Alabama,2020-02-10,0
+1103,Alaska,2020-02-10,0
+1104,American Samoa,2020-02-10,0
+1105,Arizona,2020-02-10,1
+1106,Arkansas,2020-02-10,0
+1107,California,2020-02-10,6
+1108,Colorado,2020-02-10,0
+1109,Connecticut,2020-02-10,0
+1110,Delaware,2020-02-10,0
+1111,Diamond Princess,2020-02-10,0
+1112,District of Columbia,2020-02-10,0
+1113,Florida,2020-02-10,0
+1114,Georgia,2020-02-10,0
+1115,Grand Princess,2020-02-10,0
+1116,Guam,2020-02-10,0
+1117,Hawaii,2020-02-10,0
+1118,Idaho,2020-02-10,0
+1119,Illinois,2020-02-10,2
+1120,Indiana,2020-02-10,0
+1121,Iowa,2020-02-10,0
+1122,Kansas,2020-02-10,0
+1123,Kentucky,2020-02-10,0
+1124,Louisiana,2020-02-10,0
+1125,Maine,2020-02-10,0
+1126,Maryland,2020-02-10,0
+1127,Massachusetts,2020-02-10,1
+1128,Michigan,2020-02-10,0
+1129,Minnesota,2020-02-10,0
+1130,Mississippi,2020-02-10,0
+1131,Missouri,2020-02-10,0
+1132,Montana,2020-02-10,0
+1133,Nebraska,2020-02-10,0
+1134,Nevada,2020-02-10,0
+1135,New Hampshire,2020-02-10,0
+1136,New Jersey,2020-02-10,0
+1137,New Mexico,2020-02-10,0
+1138,New York,2020-02-10,0
+1139,North Carolina,2020-02-10,0
+1140,North Dakota,2020-02-10,0
+1141,Northern Mariana Islands,2020-02-10,0
+1142,Ohio,2020-02-10,0
+1143,Oklahoma,2020-02-10,0
+1144,Oregon,2020-02-10,0
+1145,Pennsylvania,2020-02-10,0
+1146,Puerto Rico,2020-02-10,0
+1147,Rhode Island,2020-02-10,0
+1148,South Carolina,2020-02-10,0
+1149,South Dakota,2020-02-10,0
+1150,Tennessee,2020-02-10,0
+1151,Texas,2020-02-10,0
+1152,Utah,2020-02-10,0
+1153,Vermont,2020-02-10,0
+1154,Virgin Islands,2020-02-10,0
+1155,Virginia,2020-02-10,0
+1156,Washington,2020-02-10,1
+1157,West Virginia,2020-02-10,0
+1158,Wisconsin,2020-02-10,0
+1159,Wyoming,2020-02-10,0
+1160,Alabama,2020-02-11,0
+1161,Alaska,2020-02-11,0
+1162,American Samoa,2020-02-11,0
+1163,Arizona,2020-02-11,1
+1164,Arkansas,2020-02-11,0
+1165,California,2020-02-11,7
+1166,Colorado,2020-02-11,0
+1167,Connecticut,2020-02-11,0
+1168,Delaware,2020-02-11,0
+1169,Diamond Princess,2020-02-11,0
+1170,District of Columbia,2020-02-11,0
+1171,Florida,2020-02-11,0
+1172,Georgia,2020-02-11,0
+1173,Grand Princess,2020-02-11,0
+1174,Guam,2020-02-11,0
+1175,Hawaii,2020-02-11,0
+1176,Idaho,2020-02-11,0
+1177,Illinois,2020-02-11,2
+1178,Indiana,2020-02-11,0
+1179,Iowa,2020-02-11,0
+1180,Kansas,2020-02-11,0
+1181,Kentucky,2020-02-11,0
+1182,Louisiana,2020-02-11,0
+1183,Maine,2020-02-11,0
+1184,Maryland,2020-02-11,0
+1185,Massachusetts,2020-02-11,1
+1186,Michigan,2020-02-11,0
+1187,Minnesota,2020-02-11,0
+1188,Mississippi,2020-02-11,0
+1189,Missouri,2020-02-11,0
+1190,Montana,2020-02-11,0
+1191,Nebraska,2020-02-11,0
+1192,Nevada,2020-02-11,0
+1193,New Hampshire,2020-02-11,0
+1194,New Jersey,2020-02-11,0
+1195,New Mexico,2020-02-11,0
+1196,New York,2020-02-11,0
+1197,North Carolina,2020-02-11,0
+1198,North Dakota,2020-02-11,0
+1199,Northern Mariana Islands,2020-02-11,0
+1200,Ohio,2020-02-11,0
+1201,Oklahoma,2020-02-11,0
+1202,Oregon,2020-02-11,0
+1203,Pennsylvania,2020-02-11,0
+1204,Puerto Rico,2020-02-11,0
+1205,Rhode Island,2020-02-11,0
+1206,South Carolina,2020-02-11,0
+1207,South Dakota,2020-02-11,0
+1208,Tennessee,2020-02-11,0
+1209,Texas,2020-02-11,0
+1210,Utah,2020-02-11,0
+1211,Vermont,2020-02-11,0
+1212,Virgin Islands,2020-02-11,0
+1213,Virginia,2020-02-11,0
+1214,Washington,2020-02-11,1
+1215,West Virginia,2020-02-11,0
+1216,Wisconsin,2020-02-11,0
+1217,Wyoming,2020-02-11,0
+1218,Alabama,2020-02-12,0
+1219,Alaska,2020-02-12,0
+1220,American Samoa,2020-02-12,0
+1221,Arizona,2020-02-12,1
+1222,Arkansas,2020-02-12,0
+1223,California,2020-02-12,7
+1224,Colorado,2020-02-12,0
+1225,Connecticut,2020-02-12,0
+1226,Delaware,2020-02-12,0
+1227,Diamond Princess,2020-02-12,0
+1228,District of Columbia,2020-02-12,0
+1229,Florida,2020-02-12,0
+1230,Georgia,2020-02-12,0
+1231,Grand Princess,2020-02-12,0
+1232,Guam,2020-02-12,0
+1233,Hawaii,2020-02-12,0
+1234,Idaho,2020-02-12,0
+1235,Illinois,2020-02-12,2
+1236,Indiana,2020-02-12,0
+1237,Iowa,2020-02-12,0
+1238,Kansas,2020-02-12,0
+1239,Kentucky,2020-02-12,0
+1240,Louisiana,2020-02-12,0
+1241,Maine,2020-02-12,0
+1242,Maryland,2020-02-12,0
+1243,Massachusetts,2020-02-12,1
+1244,Michigan,2020-02-12,0
+1245,Minnesota,2020-02-12,0
+1246,Mississippi,2020-02-12,0
+1247,Missouri,2020-02-12,0
+1248,Montana,2020-02-12,0
+1249,Nebraska,2020-02-12,0
+1250,Nevada,2020-02-12,0
+1251,New Hampshire,2020-02-12,0
+1252,New Jersey,2020-02-12,0
+1253,New Mexico,2020-02-12,0
+1254,New York,2020-02-12,0
+1255,North Carolina,2020-02-12,0
+1256,North Dakota,2020-02-12,0
+1257,Northern Mariana Islands,2020-02-12,0
+1258,Ohio,2020-02-12,0
+1259,Oklahoma,2020-02-12,0
+1260,Oregon,2020-02-12,0
+1261,Pennsylvania,2020-02-12,0
+1262,Puerto Rico,2020-02-12,0
+1263,Rhode Island,2020-02-12,0
+1264,South Carolina,2020-02-12,0
+1265,South Dakota,2020-02-12,0
+1266,Tennessee,2020-02-12,0
+1267,Texas,2020-02-12,0
+1268,Utah,2020-02-12,0
+1269,Vermont,2020-02-12,0
+1270,Virgin Islands,2020-02-12,0
+1271,Virginia,2020-02-12,0
+1272,Washington,2020-02-12,1
+1273,West Virginia,2020-02-12,0
+1274,Wisconsin,2020-02-12,0
+1275,Wyoming,2020-02-12,0
+1276,Alabama,2020-02-13,0
+1277,Alaska,2020-02-13,0
+1278,American Samoa,2020-02-13,0
+1279,Arizona,2020-02-13,1
+1280,Arkansas,2020-02-13,0
+1281,California,2020-02-13,8
+1282,Colorado,2020-02-13,0
+1283,Connecticut,2020-02-13,0
+1284,Delaware,2020-02-13,0
+1285,Diamond Princess,2020-02-13,0
+1286,District of Columbia,2020-02-13,0
+1287,Florida,2020-02-13,0
+1288,Georgia,2020-02-13,0
+1289,Grand Princess,2020-02-13,0
+1290,Guam,2020-02-13,0
+1291,Hawaii,2020-02-13,0
+1292,Idaho,2020-02-13,0
+1293,Illinois,2020-02-13,2
+1294,Indiana,2020-02-13,0
+1295,Iowa,2020-02-13,0
+1296,Kansas,2020-02-13,0
+1297,Kentucky,2020-02-13,0
+1298,Louisiana,2020-02-13,0
+1299,Maine,2020-02-13,0
+1300,Maryland,2020-02-13,0
+1301,Massachusetts,2020-02-13,1
+1302,Michigan,2020-02-13,0
+1303,Minnesota,2020-02-13,0
+1304,Mississippi,2020-02-13,0
+1305,Missouri,2020-02-13,0
+1306,Montana,2020-02-13,0
+1307,Nebraska,2020-02-13,0
+1308,Nevada,2020-02-13,0
+1309,New Hampshire,2020-02-13,0
+1310,New Jersey,2020-02-13,0
+1311,New Mexico,2020-02-13,0
+1312,New York,2020-02-13,0
+1313,North Carolina,2020-02-13,0
+1314,North Dakota,2020-02-13,0
+1315,Northern Mariana Islands,2020-02-13,0
+1316,Ohio,2020-02-13,0
+1317,Oklahoma,2020-02-13,0
+1318,Oregon,2020-02-13,0
+1319,Pennsylvania,2020-02-13,0
+1320,Puerto Rico,2020-02-13,0
+1321,Rhode Island,2020-02-13,0
+1322,South Carolina,2020-02-13,0
+1323,South Dakota,2020-02-13,0
+1324,Tennessee,2020-02-13,0
+1325,Texas,2020-02-13,0
+1326,Utah,2020-02-13,0
+1327,Vermont,2020-02-13,0
+1328,Virgin Islands,2020-02-13,0
+1329,Virginia,2020-02-13,0
+1330,Washington,2020-02-13,1
+1331,West Virginia,2020-02-13,0
+1332,Wisconsin,2020-02-13,0
+1333,Wyoming,2020-02-13,0
+1334,Alabama,2020-02-14,0
+1335,Alaska,2020-02-14,0
+1336,American Samoa,2020-02-14,0
+1337,Arizona,2020-02-14,1
+1338,Arkansas,2020-02-14,0
+1339,California,2020-02-14,8
+1340,Colorado,2020-02-14,0
+1341,Connecticut,2020-02-14,0
+1342,Delaware,2020-02-14,0
+1343,Diamond Princess,2020-02-14,0
+1344,District of Columbia,2020-02-14,0
+1345,Florida,2020-02-14,0
+1346,Georgia,2020-02-14,0
+1347,Grand Princess,2020-02-14,0
+1348,Guam,2020-02-14,0
+1349,Hawaii,2020-02-14,0
+1350,Idaho,2020-02-14,0
+1351,Illinois,2020-02-14,2
+1352,Indiana,2020-02-14,0
+1353,Iowa,2020-02-14,0
+1354,Kansas,2020-02-14,0
+1355,Kentucky,2020-02-14,0
+1356,Louisiana,2020-02-14,0
+1357,Maine,2020-02-14,0
+1358,Maryland,2020-02-14,0
+1359,Massachusetts,2020-02-14,1
+1360,Michigan,2020-02-14,0
+1361,Minnesota,2020-02-14,0
+1362,Mississippi,2020-02-14,0
+1363,Missouri,2020-02-14,0
+1364,Montana,2020-02-14,0
+1365,Nebraska,2020-02-14,0
+1366,Nevada,2020-02-14,0
+1367,New Hampshire,2020-02-14,0
+1368,New Jersey,2020-02-14,0
+1369,New Mexico,2020-02-14,0
+1370,New York,2020-02-14,0
+1371,North Carolina,2020-02-14,0
+1372,North Dakota,2020-02-14,0
+1373,Northern Mariana Islands,2020-02-14,0
+1374,Ohio,2020-02-14,0
+1375,Oklahoma,2020-02-14,0
+1376,Oregon,2020-02-14,0
+1377,Pennsylvania,2020-02-14,0
+1378,Puerto Rico,2020-02-14,0
+1379,Rhode Island,2020-02-14,0
+1380,South Carolina,2020-02-14,0
+1381,South Dakota,2020-02-14,0
+1382,Tennessee,2020-02-14,0
+1383,Texas,2020-02-14,0
+1384,Utah,2020-02-14,0
+1385,Vermont,2020-02-14,0
+1386,Virgin Islands,2020-02-14,0
+1387,Virginia,2020-02-14,0
+1388,Washington,2020-02-14,1
+1389,West Virginia,2020-02-14,0
+1390,Wisconsin,2020-02-14,0
+1391,Wyoming,2020-02-14,0
+1392,Alabama,2020-02-15,0
+1393,Alaska,2020-02-15,0
+1394,American Samoa,2020-02-15,0
+1395,Arizona,2020-02-15,1
+1396,Arkansas,2020-02-15,0
+1397,California,2020-02-15,8
+1398,Colorado,2020-02-15,0
+1399,Connecticut,2020-02-15,0
+1400,Delaware,2020-02-15,0
+1401,Diamond Princess,2020-02-15,0
+1402,District of Columbia,2020-02-15,0
+1403,Florida,2020-02-15,0
+1404,Georgia,2020-02-15,0
+1405,Grand Princess,2020-02-15,0
+1406,Guam,2020-02-15,0
+1407,Hawaii,2020-02-15,0
+1408,Idaho,2020-02-15,0
+1409,Illinois,2020-02-15,2
+1410,Indiana,2020-02-15,0
+1411,Iowa,2020-02-15,0
+1412,Kansas,2020-02-15,0
+1413,Kentucky,2020-02-15,0
+1414,Louisiana,2020-02-15,0
+1415,Maine,2020-02-15,0
+1416,Maryland,2020-02-15,0
+1417,Massachusetts,2020-02-15,1
+1418,Michigan,2020-02-15,0
+1419,Minnesota,2020-02-15,0
+1420,Mississippi,2020-02-15,0
+1421,Missouri,2020-02-15,0
+1422,Montana,2020-02-15,0
+1423,Nebraska,2020-02-15,0
+1424,Nevada,2020-02-15,0
+1425,New Hampshire,2020-02-15,0
+1426,New Jersey,2020-02-15,0
+1427,New Mexico,2020-02-15,0
+1428,New York,2020-02-15,0
+1429,North Carolina,2020-02-15,0
+1430,North Dakota,2020-02-15,0
+1431,Northern Mariana Islands,2020-02-15,0
+1432,Ohio,2020-02-15,0
+1433,Oklahoma,2020-02-15,0
+1434,Oregon,2020-02-15,0
+1435,Pennsylvania,2020-02-15,0
+1436,Puerto Rico,2020-02-15,0
+1437,Rhode Island,2020-02-15,0
+1438,South Carolina,2020-02-15,0
+1439,South Dakota,2020-02-15,0
+1440,Tennessee,2020-02-15,0
+1441,Texas,2020-02-15,0
+1442,Utah,2020-02-15,0
+1443,Vermont,2020-02-15,0
+1444,Virgin Islands,2020-02-15,0
+1445,Virginia,2020-02-15,0
+1446,Washington,2020-02-15,1
+1447,West Virginia,2020-02-15,0
+1448,Wisconsin,2020-02-15,0
+1449,Wyoming,2020-02-15,0
+1450,Alabama,2020-02-16,0
+1451,Alaska,2020-02-16,0
+1452,American Samoa,2020-02-16,0
+1453,Arizona,2020-02-16,1
+1454,Arkansas,2020-02-16,0
+1455,California,2020-02-16,8
+1456,Colorado,2020-02-16,0
+1457,Connecticut,2020-02-16,0
+1458,Delaware,2020-02-16,0
+1459,Diamond Princess,2020-02-16,0
+1460,District of Columbia,2020-02-16,0
+1461,Florida,2020-02-16,0
+1462,Georgia,2020-02-16,0
+1463,Grand Princess,2020-02-16,0
+1464,Guam,2020-02-16,0
+1465,Hawaii,2020-02-16,0
+1466,Idaho,2020-02-16,0
+1467,Illinois,2020-02-16,2
+1468,Indiana,2020-02-16,0
+1469,Iowa,2020-02-16,0
+1470,Kansas,2020-02-16,0
+1471,Kentucky,2020-02-16,0
+1472,Louisiana,2020-02-16,0
+1473,Maine,2020-02-16,0
+1474,Maryland,2020-02-16,0
+1475,Massachusetts,2020-02-16,1
+1476,Michigan,2020-02-16,0
+1477,Minnesota,2020-02-16,0
+1478,Mississippi,2020-02-16,0
+1479,Missouri,2020-02-16,0
+1480,Montana,2020-02-16,0
+1481,Nebraska,2020-02-16,0
+1482,Nevada,2020-02-16,0
+1483,New Hampshire,2020-02-16,0
+1484,New Jersey,2020-02-16,0
+1485,New Mexico,2020-02-16,0
+1486,New York,2020-02-16,0
+1487,North Carolina,2020-02-16,0
+1488,North Dakota,2020-02-16,0
+1489,Northern Mariana Islands,2020-02-16,0
+1490,Ohio,2020-02-16,0
+1491,Oklahoma,2020-02-16,0
+1492,Oregon,2020-02-16,0
+1493,Pennsylvania,2020-02-16,0
+1494,Puerto Rico,2020-02-16,0
+1495,Rhode Island,2020-02-16,0
+1496,South Carolina,2020-02-16,0
+1497,South Dakota,2020-02-16,0
+1498,Tennessee,2020-02-16,0
+1499,Texas,2020-02-16,0
+1500,Utah,2020-02-16,0
+1501,Vermont,2020-02-16,0
+1502,Virgin Islands,2020-02-16,0
+1503,Virginia,2020-02-16,0
+1504,Washington,2020-02-16,1
+1505,West Virginia,2020-02-16,0
+1506,Wisconsin,2020-02-16,0
+1507,Wyoming,2020-02-16,0
+1508,Alabama,2020-02-17,0
+1509,Alaska,2020-02-17,0
+1510,American Samoa,2020-02-17,0
+1511,Arizona,2020-02-17,1
+1512,Arkansas,2020-02-17,0
+1513,California,2020-02-17,8
+1514,Colorado,2020-02-17,0
+1515,Connecticut,2020-02-17,0
+1516,Delaware,2020-02-17,0
+1517,Diamond Princess,2020-02-17,0
+1518,District of Columbia,2020-02-17,0
+1519,Florida,2020-02-17,0
+1520,Georgia,2020-02-17,0
+1521,Grand Princess,2020-02-17,0
+1522,Guam,2020-02-17,0
+1523,Hawaii,2020-02-17,0
+1524,Idaho,2020-02-17,0
+1525,Illinois,2020-02-17,2
+1526,Indiana,2020-02-17,0
+1527,Iowa,2020-02-17,0
+1528,Kansas,2020-02-17,0
+1529,Kentucky,2020-02-17,0
+1530,Louisiana,2020-02-17,0
+1531,Maine,2020-02-17,0
+1532,Maryland,2020-02-17,0
+1533,Massachusetts,2020-02-17,1
+1534,Michigan,2020-02-17,0
+1535,Minnesota,2020-02-17,0
+1536,Mississippi,2020-02-17,0
+1537,Missouri,2020-02-17,0
+1538,Montana,2020-02-17,0
+1539,Nebraska,2020-02-17,0
+1540,Nevada,2020-02-17,0
+1541,New Hampshire,2020-02-17,0
+1542,New Jersey,2020-02-17,0
+1543,New Mexico,2020-02-17,0
+1544,New York,2020-02-17,0
+1545,North Carolina,2020-02-17,0
+1546,North Dakota,2020-02-17,0
+1547,Northern Mariana Islands,2020-02-17,0
+1548,Ohio,2020-02-17,0
+1549,Oklahoma,2020-02-17,0
+1550,Oregon,2020-02-17,0
+1551,Pennsylvania,2020-02-17,0
+1552,Puerto Rico,2020-02-17,0
+1553,Rhode Island,2020-02-17,0
+1554,South Carolina,2020-02-17,0
+1555,South Dakota,2020-02-17,0
+1556,Tennessee,2020-02-17,0
+1557,Texas,2020-02-17,0
+1558,Utah,2020-02-17,0
+1559,Vermont,2020-02-17,0
+1560,Virgin Islands,2020-02-17,0
+1561,Virginia,2020-02-17,0
+1562,Washington,2020-02-17,1
+1563,West Virginia,2020-02-17,0
+1564,Wisconsin,2020-02-17,0
+1565,Wyoming,2020-02-17,0
+1566,Alabama,2020-02-18,0
+1567,Alaska,2020-02-18,0
+1568,American Samoa,2020-02-18,0
+1569,Arizona,2020-02-18,1
+1570,Arkansas,2020-02-18,0
+1571,California,2020-02-18,8
+1572,Colorado,2020-02-18,0
+1573,Connecticut,2020-02-18,0
+1574,Delaware,2020-02-18,0
+1575,Diamond Princess,2020-02-18,0
+1576,District of Columbia,2020-02-18,0
+1577,Florida,2020-02-18,0
+1578,Georgia,2020-02-18,0
+1579,Grand Princess,2020-02-18,0
+1580,Guam,2020-02-18,0
+1581,Hawaii,2020-02-18,0
+1582,Idaho,2020-02-18,0
+1583,Illinois,2020-02-18,2
+1584,Indiana,2020-02-18,0
+1585,Iowa,2020-02-18,0
+1586,Kansas,2020-02-18,0
+1587,Kentucky,2020-02-18,0
+1588,Louisiana,2020-02-18,0
+1589,Maine,2020-02-18,0
+1590,Maryland,2020-02-18,0
+1591,Massachusetts,2020-02-18,1
+1592,Michigan,2020-02-18,0
+1593,Minnesota,2020-02-18,0
+1594,Mississippi,2020-02-18,0
+1595,Missouri,2020-02-18,0
+1596,Montana,2020-02-18,0
+1597,Nebraska,2020-02-18,0
+1598,Nevada,2020-02-18,0
+1599,New Hampshire,2020-02-18,0
+1600,New Jersey,2020-02-18,0
+1601,New Mexico,2020-02-18,0
+1602,New York,2020-02-18,0
+1603,North Carolina,2020-02-18,0
+1604,North Dakota,2020-02-18,0
+1605,Northern Mariana Islands,2020-02-18,0
+1606,Ohio,2020-02-18,0
+1607,Oklahoma,2020-02-18,0
+1608,Oregon,2020-02-18,0
+1609,Pennsylvania,2020-02-18,0
+1610,Puerto Rico,2020-02-18,0
+1611,Rhode Island,2020-02-18,0
+1612,South Carolina,2020-02-18,0
+1613,South Dakota,2020-02-18,0
+1614,Tennessee,2020-02-18,0
+1615,Texas,2020-02-18,0
+1616,Utah,2020-02-18,0
+1617,Vermont,2020-02-18,0
+1618,Virgin Islands,2020-02-18,0
+1619,Virginia,2020-02-18,0
+1620,Washington,2020-02-18,1
+1621,West Virginia,2020-02-18,0
+1622,Wisconsin,2020-02-18,0
+1623,Wyoming,2020-02-18,0
+1624,Alabama,2020-02-19,0
+1625,Alaska,2020-02-19,0
+1626,American Samoa,2020-02-19,0
+1627,Arizona,2020-02-19,1
+1628,Arkansas,2020-02-19,0
+1629,California,2020-02-19,8
+1630,Colorado,2020-02-19,0
+1631,Connecticut,2020-02-19,0
+1632,Delaware,2020-02-19,0
+1633,Diamond Princess,2020-02-19,0
+1634,District of Columbia,2020-02-19,0
+1635,Florida,2020-02-19,0
+1636,Georgia,2020-02-19,0
+1637,Grand Princess,2020-02-19,0
+1638,Guam,2020-02-19,0
+1639,Hawaii,2020-02-19,0
+1640,Idaho,2020-02-19,0
+1641,Illinois,2020-02-19,2
+1642,Indiana,2020-02-19,0
+1643,Iowa,2020-02-19,0
+1644,Kansas,2020-02-19,0
+1645,Kentucky,2020-02-19,0
+1646,Louisiana,2020-02-19,0
+1647,Maine,2020-02-19,0
+1648,Maryland,2020-02-19,0
+1649,Massachusetts,2020-02-19,1
+1650,Michigan,2020-02-19,0
+1651,Minnesota,2020-02-19,0
+1652,Mississippi,2020-02-19,0
+1653,Missouri,2020-02-19,0
+1654,Montana,2020-02-19,0
+1655,Nebraska,2020-02-19,0
+1656,Nevada,2020-02-19,0
+1657,New Hampshire,2020-02-19,0
+1658,New Jersey,2020-02-19,0
+1659,New Mexico,2020-02-19,0
+1660,New York,2020-02-19,0
+1661,North Carolina,2020-02-19,0
+1662,North Dakota,2020-02-19,0
+1663,Northern Mariana Islands,2020-02-19,0
+1664,Ohio,2020-02-19,0
+1665,Oklahoma,2020-02-19,0
+1666,Oregon,2020-02-19,0
+1667,Pennsylvania,2020-02-19,0
+1668,Puerto Rico,2020-02-19,0
+1669,Rhode Island,2020-02-19,0
+1670,South Carolina,2020-02-19,0
+1671,South Dakota,2020-02-19,0
+1672,Tennessee,2020-02-19,0
+1673,Texas,2020-02-19,0
+1674,Utah,2020-02-19,0
+1675,Vermont,2020-02-19,0
+1676,Virgin Islands,2020-02-19,0
+1677,Virginia,2020-02-19,0
+1678,Washington,2020-02-19,1
+1679,West Virginia,2020-02-19,0
+1680,Wisconsin,2020-02-19,0
+1681,Wyoming,2020-02-19,0
+1682,Alabama,2020-02-20,0
+1683,Alaska,2020-02-20,0
+1684,American Samoa,2020-02-20,0
+1685,Arizona,2020-02-20,1
+1686,Arkansas,2020-02-20,0
+1687,California,2020-02-20,8
+1688,Colorado,2020-02-20,0
+1689,Connecticut,2020-02-20,0
+1690,Delaware,2020-02-20,0
+1691,Diamond Princess,2020-02-20,0
+1692,District of Columbia,2020-02-20,0
+1693,Florida,2020-02-20,0
+1694,Georgia,2020-02-20,0
+1695,Grand Princess,2020-02-20,0
+1696,Guam,2020-02-20,0
+1697,Hawaii,2020-02-20,0
+1698,Idaho,2020-02-20,0
+1699,Illinois,2020-02-20,2
+1700,Indiana,2020-02-20,0
+1701,Iowa,2020-02-20,0
+1702,Kansas,2020-02-20,0
+1703,Kentucky,2020-02-20,0
+1704,Louisiana,2020-02-20,0
+1705,Maine,2020-02-20,0
+1706,Maryland,2020-02-20,0
+1707,Massachusetts,2020-02-20,1
+1708,Michigan,2020-02-20,0
+1709,Minnesota,2020-02-20,0
+1710,Mississippi,2020-02-20,0
+1711,Missouri,2020-02-20,0
+1712,Montana,2020-02-20,0
+1713,Nebraska,2020-02-20,0
+1714,Nevada,2020-02-20,0
+1715,New Hampshire,2020-02-20,0
+1716,New Jersey,2020-02-20,0
+1717,New Mexico,2020-02-20,0
+1718,New York,2020-02-20,0
+1719,North Carolina,2020-02-20,0
+1720,North Dakota,2020-02-20,0
+1721,Northern Mariana Islands,2020-02-20,0
+1722,Ohio,2020-02-20,0
+1723,Oklahoma,2020-02-20,0
+1724,Oregon,2020-02-20,0
+1725,Pennsylvania,2020-02-20,0
+1726,Puerto Rico,2020-02-20,0
+1727,Rhode Island,2020-02-20,0
+1728,South Carolina,2020-02-20,0
+1729,South Dakota,2020-02-20,0
+1730,Tennessee,2020-02-20,0
+1731,Texas,2020-02-20,0
+1732,Utah,2020-02-20,0
+1733,Vermont,2020-02-20,0
+1734,Virgin Islands,2020-02-20,0
+1735,Virginia,2020-02-20,0
+1736,Washington,2020-02-20,1
+1737,West Virginia,2020-02-20,0
+1738,Wisconsin,2020-02-20,0
+1739,Wyoming,2020-02-20,0
+1740,Alabama,2020-02-21,0
+1741,Alaska,2020-02-21,0
+1742,American Samoa,2020-02-21,0
+1743,Arizona,2020-02-21,1
+1744,Arkansas,2020-02-21,0
+1745,California,2020-02-21,10
+1746,Colorado,2020-02-21,0
+1747,Connecticut,2020-02-21,0
+1748,Delaware,2020-02-21,0
+1749,Diamond Princess,2020-02-21,0
+1750,District of Columbia,2020-02-21,0
+1751,Florida,2020-02-21,0
+1752,Georgia,2020-02-21,0
+1753,Grand Princess,2020-02-21,0
+1754,Guam,2020-02-21,0
+1755,Hawaii,2020-02-21,0
+1756,Idaho,2020-02-21,0
+1757,Illinois,2020-02-21,2
+1758,Indiana,2020-02-21,0
+1759,Iowa,2020-02-21,0
+1760,Kansas,2020-02-21,0
+1761,Kentucky,2020-02-21,0
+1762,Louisiana,2020-02-21,0
+1763,Maine,2020-02-21,0
+1764,Maryland,2020-02-21,0
+1765,Massachusetts,2020-02-21,1
+1766,Michigan,2020-02-21,0
+1767,Minnesota,2020-02-21,0
+1768,Mississippi,2020-02-21,0
+1769,Missouri,2020-02-21,0
+1770,Montana,2020-02-21,0
+1771,Nebraska,2020-02-21,0
+1772,Nevada,2020-02-21,0
+1773,New Hampshire,2020-02-21,0
+1774,New Jersey,2020-02-21,0
+1775,New Mexico,2020-02-21,0
+1776,New York,2020-02-21,0
+1777,North Carolina,2020-02-21,0
+1778,North Dakota,2020-02-21,0
+1779,Northern Mariana Islands,2020-02-21,0
+1780,Ohio,2020-02-21,0
+1781,Oklahoma,2020-02-21,0
+1782,Oregon,2020-02-21,0
+1783,Pennsylvania,2020-02-21,0
+1784,Puerto Rico,2020-02-21,0
+1785,Rhode Island,2020-02-21,0
+1786,South Carolina,2020-02-21,0
+1787,South Dakota,2020-02-21,0
+1788,Tennessee,2020-02-21,0
+1789,Texas,2020-02-21,0
+1790,Utah,2020-02-21,0
+1791,Vermont,2020-02-21,0
+1792,Virgin Islands,2020-02-21,0
+1793,Virginia,2020-02-21,0
+1794,Washington,2020-02-21,1
+1795,West Virginia,2020-02-21,0
+1796,Wisconsin,2020-02-21,0
+1797,Wyoming,2020-02-21,0
+1798,Alabama,2020-02-22,0
+1799,Alaska,2020-02-22,0
+1800,American Samoa,2020-02-22,0
+1801,Arizona,2020-02-22,1
+1802,Arkansas,2020-02-22,0
+1803,California,2020-02-22,10
+1804,Colorado,2020-02-22,0
+1805,Connecticut,2020-02-22,0
+1806,Delaware,2020-02-22,0
+1807,Diamond Princess,2020-02-22,0
+1808,District of Columbia,2020-02-22,0
+1809,Florida,2020-02-22,0
+1810,Georgia,2020-02-22,0
+1811,Grand Princess,2020-02-22,0
+1812,Guam,2020-02-22,0
+1813,Hawaii,2020-02-22,0
+1814,Idaho,2020-02-22,0
+1815,Illinois,2020-02-22,2
+1816,Indiana,2020-02-22,0
+1817,Iowa,2020-02-22,0
+1818,Kansas,2020-02-22,0
+1819,Kentucky,2020-02-22,0
+1820,Louisiana,2020-02-22,0
+1821,Maine,2020-02-22,0
+1822,Maryland,2020-02-22,0
+1823,Massachusetts,2020-02-22,1
+1824,Michigan,2020-02-22,0
+1825,Minnesota,2020-02-22,0
+1826,Mississippi,2020-02-22,0
+1827,Missouri,2020-02-22,0
+1828,Montana,2020-02-22,0
+1829,Nebraska,2020-02-22,0
+1830,Nevada,2020-02-22,0
+1831,New Hampshire,2020-02-22,0
+1832,New Jersey,2020-02-22,0
+1833,New Mexico,2020-02-22,0
+1834,New York,2020-02-22,0
+1835,North Carolina,2020-02-22,0
+1836,North Dakota,2020-02-22,0
+1837,Northern Mariana Islands,2020-02-22,0
+1838,Ohio,2020-02-22,0
+1839,Oklahoma,2020-02-22,0
+1840,Oregon,2020-02-22,0
+1841,Pennsylvania,2020-02-22,0
+1842,Puerto Rico,2020-02-22,0
+1843,Rhode Island,2020-02-22,0
+1844,South Carolina,2020-02-22,0
+1845,South Dakota,2020-02-22,0
+1846,Tennessee,2020-02-22,0
+1847,Texas,2020-02-22,0
+1848,Utah,2020-02-22,0
+1849,Vermont,2020-02-22,0
+1850,Virgin Islands,2020-02-22,0
+1851,Virginia,2020-02-22,0
+1852,Washington,2020-02-22,1
+1853,West Virginia,2020-02-22,0
+1854,Wisconsin,2020-02-22,0
+1855,Wyoming,2020-02-22,0
+1856,Alabama,2020-02-23,0
+1857,Alaska,2020-02-23,0
+1858,American Samoa,2020-02-23,0
+1859,Arizona,2020-02-23,1
+1860,Arkansas,2020-02-23,0
+1861,California,2020-02-23,10
+1862,Colorado,2020-02-23,0
+1863,Connecticut,2020-02-23,0
+1864,Delaware,2020-02-23,0
+1865,Diamond Princess,2020-02-23,0
+1866,District of Columbia,2020-02-23,0
+1867,Florida,2020-02-23,0
+1868,Georgia,2020-02-23,0
+1869,Grand Princess,2020-02-23,0
+1870,Guam,2020-02-23,0
+1871,Hawaii,2020-02-23,0
+1872,Idaho,2020-02-23,0
+1873,Illinois,2020-02-23,2
+1874,Indiana,2020-02-23,0
+1875,Iowa,2020-02-23,0
+1876,Kansas,2020-02-23,0
+1877,Kentucky,2020-02-23,0
+1878,Louisiana,2020-02-23,0
+1879,Maine,2020-02-23,0
+1880,Maryland,2020-02-23,0
+1881,Massachusetts,2020-02-23,1
+1882,Michigan,2020-02-23,0
+1883,Minnesota,2020-02-23,0
+1884,Mississippi,2020-02-23,0
+1885,Missouri,2020-02-23,0
+1886,Montana,2020-02-23,0
+1887,Nebraska,2020-02-23,0
+1888,Nevada,2020-02-23,0
+1889,New Hampshire,2020-02-23,0
+1890,New Jersey,2020-02-23,0
+1891,New Mexico,2020-02-23,0
+1892,New York,2020-02-23,0
+1893,North Carolina,2020-02-23,0
+1894,North Dakota,2020-02-23,0
+1895,Northern Mariana Islands,2020-02-23,0
+1896,Ohio,2020-02-23,0
+1897,Oklahoma,2020-02-23,0
+1898,Oregon,2020-02-23,0
+1899,Pennsylvania,2020-02-23,0
+1900,Puerto Rico,2020-02-23,0
+1901,Rhode Island,2020-02-23,0
+1902,South Carolina,2020-02-23,0
+1903,South Dakota,2020-02-23,0
+1904,Tennessee,2020-02-23,0
+1905,Texas,2020-02-23,0
+1906,Utah,2020-02-23,0
+1907,Vermont,2020-02-23,0
+1908,Virgin Islands,2020-02-23,0
+1909,Virginia,2020-02-23,0
+1910,Washington,2020-02-23,1
+1911,West Virginia,2020-02-23,0
+1912,Wisconsin,2020-02-23,0
+1913,Wyoming,2020-02-23,0
+1914,Alabama,2020-02-24,0
+1915,Alaska,2020-02-24,0
+1916,American Samoa,2020-02-24,0
+1917,Arizona,2020-02-24,1
+1918,Arkansas,2020-02-24,0
+1919,California,2020-02-24,10
+1920,Colorado,2020-02-24,0
+1921,Connecticut,2020-02-24,0
+1922,Delaware,2020-02-24,0
+1923,Diamond Princess,2020-02-24,0
+1924,District of Columbia,2020-02-24,0
+1925,Florida,2020-02-24,0
+1926,Georgia,2020-02-24,0
+1927,Grand Princess,2020-02-24,0
+1928,Guam,2020-02-24,0
+1929,Hawaii,2020-02-24,0
+1930,Idaho,2020-02-24,0
+1931,Illinois,2020-02-24,2
+1932,Indiana,2020-02-24,0
+1933,Iowa,2020-02-24,0
+1934,Kansas,2020-02-24,0
+1935,Kentucky,2020-02-24,0
+1936,Louisiana,2020-02-24,0
+1937,Maine,2020-02-24,0
+1938,Maryland,2020-02-24,0
+1939,Massachusetts,2020-02-24,1
+1940,Michigan,2020-02-24,0
+1941,Minnesota,2020-02-24,0
+1942,Mississippi,2020-02-24,0
+1943,Missouri,2020-02-24,0
+1944,Montana,2020-02-24,0
+1945,Nebraska,2020-02-24,0
+1946,Nevada,2020-02-24,0
+1947,New Hampshire,2020-02-24,0
+1948,New Jersey,2020-02-24,0
+1949,New Mexico,2020-02-24,0
+1950,New York,2020-02-24,0
+1951,North Carolina,2020-02-24,0
+1952,North Dakota,2020-02-24,0
+1953,Northern Mariana Islands,2020-02-24,0
+1954,Ohio,2020-02-24,0
+1955,Oklahoma,2020-02-24,0
+1956,Oregon,2020-02-24,0
+1957,Pennsylvania,2020-02-24,0
+1958,Puerto Rico,2020-02-24,0
+1959,Rhode Island,2020-02-24,0
+1960,South Carolina,2020-02-24,0
+1961,South Dakota,2020-02-24,0
+1962,Tennessee,2020-02-24,0
+1963,Texas,2020-02-24,0
+1964,Utah,2020-02-24,0
+1965,Vermont,2020-02-24,0
+1966,Virgin Islands,2020-02-24,0
+1967,Virginia,2020-02-24,0
+1968,Washington,2020-02-24,1
+1969,West Virginia,2020-02-24,0
+1970,Wisconsin,2020-02-24,0
+1971,Wyoming,2020-02-24,0
+1972,Alabama,2020-02-25,0
+1973,Alaska,2020-02-25,0
+1974,American Samoa,2020-02-25,0
+1975,Arizona,2020-02-25,1
+1976,Arkansas,2020-02-25,0
+1977,California,2020-02-25,10
+1978,Colorado,2020-02-25,0
+1979,Connecticut,2020-02-25,0
+1980,Delaware,2020-02-25,0
+1981,Diamond Princess,2020-02-25,0
+1982,District of Columbia,2020-02-25,0
+1983,Florida,2020-02-25,0
+1984,Georgia,2020-02-25,0
+1985,Grand Princess,2020-02-25,0
+1986,Guam,2020-02-25,0
+1987,Hawaii,2020-02-25,0
+1988,Idaho,2020-02-25,0
+1989,Illinois,2020-02-25,2
+1990,Indiana,2020-02-25,0
+1991,Iowa,2020-02-25,0
+1992,Kansas,2020-02-25,0
+1993,Kentucky,2020-02-25,0
+1994,Louisiana,2020-02-25,0
+1995,Maine,2020-02-25,0
+1996,Maryland,2020-02-25,0
+1997,Massachusetts,2020-02-25,1
+1998,Michigan,2020-02-25,0
+1999,Minnesota,2020-02-25,0
+2000,Mississippi,2020-02-25,0
+2001,Missouri,2020-02-25,0
+2002,Montana,2020-02-25,0
+2003,Nebraska,2020-02-25,0
+2004,Nevada,2020-02-25,0
+2005,New Hampshire,2020-02-25,0
+2006,New Jersey,2020-02-25,0
+2007,New Mexico,2020-02-25,0
+2008,New York,2020-02-25,0
+2009,North Carolina,2020-02-25,0
+2010,North Dakota,2020-02-25,0
+2011,Northern Mariana Islands,2020-02-25,0
+2012,Ohio,2020-02-25,0
+2013,Oklahoma,2020-02-25,0
+2014,Oregon,2020-02-25,0
+2015,Pennsylvania,2020-02-25,0
+2016,Puerto Rico,2020-02-25,0
+2017,Rhode Island,2020-02-25,0
+2018,South Carolina,2020-02-25,0
+2019,South Dakota,2020-02-25,0
+2020,Tennessee,2020-02-25,0
+2021,Texas,2020-02-25,0
+2022,Utah,2020-02-25,0
+2023,Vermont,2020-02-25,0
+2024,Virgin Islands,2020-02-25,0
+2025,Virginia,2020-02-25,0
+2026,Washington,2020-02-25,1
+2027,West Virginia,2020-02-25,0
+2028,Wisconsin,2020-02-25,0
+2029,Wyoming,2020-02-25,0
+2030,Alabama,2020-02-26,0
+2031,Alaska,2020-02-26,0
+2032,American Samoa,2020-02-26,0
+2033,Arizona,2020-02-26,1
+2034,Arkansas,2020-02-26,0
+2035,California,2020-02-26,10
+2036,Colorado,2020-02-26,0
+2037,Connecticut,2020-02-26,0
+2038,Delaware,2020-02-26,0
+2039,Diamond Princess,2020-02-26,0
+2040,District of Columbia,2020-02-26,0
+2041,Florida,2020-02-26,0
+2042,Georgia,2020-02-26,0
+2043,Grand Princess,2020-02-26,0
+2044,Guam,2020-02-26,0
+2045,Hawaii,2020-02-26,0
+2046,Idaho,2020-02-26,0
+2047,Illinois,2020-02-26,2
+2048,Indiana,2020-02-26,0
+2049,Iowa,2020-02-26,0
+2050,Kansas,2020-02-26,0
+2051,Kentucky,2020-02-26,0
+2052,Louisiana,2020-02-26,0
+2053,Maine,2020-02-26,0
+2054,Maryland,2020-02-26,0
+2055,Massachusetts,2020-02-26,1
+2056,Michigan,2020-02-26,0
+2057,Minnesota,2020-02-26,0
+2058,Mississippi,2020-02-26,0
+2059,Missouri,2020-02-26,0
+2060,Montana,2020-02-26,0
+2061,Nebraska,2020-02-26,0
+2062,Nevada,2020-02-26,0
+2063,New Hampshire,2020-02-26,0
+2064,New Jersey,2020-02-26,0
+2065,New Mexico,2020-02-26,0
+2066,New York,2020-02-26,0
+2067,North Carolina,2020-02-26,0
+2068,North Dakota,2020-02-26,0
+2069,Northern Mariana Islands,2020-02-26,0
+2070,Ohio,2020-02-26,0
+2071,Oklahoma,2020-02-26,0
+2072,Oregon,2020-02-26,0
+2073,Pennsylvania,2020-02-26,0
+2074,Puerto Rico,2020-02-26,0
+2075,Rhode Island,2020-02-26,0
+2076,South Carolina,2020-02-26,0
+2077,South Dakota,2020-02-26,0
+2078,Tennessee,2020-02-26,0
+2079,Texas,2020-02-26,0
+2080,Utah,2020-02-26,0
+2081,Vermont,2020-02-26,0
+2082,Virgin Islands,2020-02-26,0
+2083,Virginia,2020-02-26,0
+2084,Washington,2020-02-26,1
+2085,West Virginia,2020-02-26,0
+2086,Wisconsin,2020-02-26,0
+2087,Wyoming,2020-02-26,0
+2088,Alabama,2020-02-27,0
+2089,Alaska,2020-02-27,0
+2090,American Samoa,2020-02-27,0
+2091,Arizona,2020-02-27,1
+2092,Arkansas,2020-02-27,0
+2093,California,2020-02-27,11
+2094,Colorado,2020-02-27,0
+2095,Connecticut,2020-02-27,0
+2096,Delaware,2020-02-27,0
+2097,Diamond Princess,2020-02-27,0
+2098,District of Columbia,2020-02-27,0
+2099,Florida,2020-02-27,0
+2100,Georgia,2020-02-27,0
+2101,Grand Princess,2020-02-27,0
+2102,Guam,2020-02-27,0
+2103,Hawaii,2020-02-27,0
+2104,Idaho,2020-02-27,0
+2105,Illinois,2020-02-27,2
+2106,Indiana,2020-02-27,0
+2107,Iowa,2020-02-27,0
+2108,Kansas,2020-02-27,0
+2109,Kentucky,2020-02-27,0
+2110,Louisiana,2020-02-27,0
+2111,Maine,2020-02-27,0
+2112,Maryland,2020-02-27,0
+2113,Massachusetts,2020-02-27,1
+2114,Michigan,2020-02-27,0
+2115,Minnesota,2020-02-27,0
+2116,Mississippi,2020-02-27,0
+2117,Missouri,2020-02-27,0
+2118,Montana,2020-02-27,0
+2119,Nebraska,2020-02-27,0
+2120,Nevada,2020-02-27,0
+2121,New Hampshire,2020-02-27,0
+2122,New Jersey,2020-02-27,0
+2123,New Mexico,2020-02-27,0
+2124,New York,2020-02-27,0
+2125,North Carolina,2020-02-27,0
+2126,North Dakota,2020-02-27,0
+2127,Northern Mariana Islands,2020-02-27,0
+2128,Ohio,2020-02-27,0
+2129,Oklahoma,2020-02-27,0
+2130,Oregon,2020-02-27,0
+2131,Pennsylvania,2020-02-27,0
+2132,Puerto Rico,2020-02-27,0
+2133,Rhode Island,2020-02-27,0
+2134,South Carolina,2020-02-27,0
+2135,South Dakota,2020-02-27,0
+2136,Tennessee,2020-02-27,0
+2137,Texas,2020-02-27,0
+2138,Utah,2020-02-27,0
+2139,Vermont,2020-02-27,0
+2140,Virgin Islands,2020-02-27,0
+2141,Virginia,2020-02-27,0
+2142,Washington,2020-02-27,1
+2143,West Virginia,2020-02-27,0
+2144,Wisconsin,2020-02-27,0
+2145,Wyoming,2020-02-27,0
+2146,Alabama,2020-02-28,0
+2147,Alaska,2020-02-28,0
+2148,American Samoa,2020-02-28,0
+2149,Arizona,2020-02-28,1
+2150,Arkansas,2020-02-28,0
+2151,California,2020-02-28,11
+2152,Colorado,2020-02-28,0
+2153,Connecticut,2020-02-28,0
+2154,Delaware,2020-02-28,0
+2155,Diamond Princess,2020-02-28,0
+2156,District of Columbia,2020-02-28,0
+2157,Florida,2020-02-28,0
+2158,Georgia,2020-02-28,0
+2159,Grand Princess,2020-02-28,0
+2160,Guam,2020-02-28,0
+2161,Hawaii,2020-02-28,0
+2162,Idaho,2020-02-28,0
+2163,Illinois,2020-02-28,2
+2164,Indiana,2020-02-28,0
+2165,Iowa,2020-02-28,0
+2166,Kansas,2020-02-28,0
+2167,Kentucky,2020-02-28,0
+2168,Louisiana,2020-02-28,0
+2169,Maine,2020-02-28,0
+2170,Maryland,2020-02-28,0
+2171,Massachusetts,2020-02-28,1
+2172,Michigan,2020-02-28,0
+2173,Minnesota,2020-02-28,0
+2174,Mississippi,2020-02-28,0
+2175,Missouri,2020-02-28,0
+2176,Montana,2020-02-28,0
+2177,Nebraska,2020-02-28,0
+2178,Nevada,2020-02-28,0
+2179,New Hampshire,2020-02-28,0
+2180,New Jersey,2020-02-28,0
+2181,New Mexico,2020-02-28,0
+2182,New York,2020-02-28,0
+2183,North Carolina,2020-02-28,0
+2184,North Dakota,2020-02-28,0
+2185,Northern Mariana Islands,2020-02-28,0
+2186,Ohio,2020-02-28,0
+2187,Oklahoma,2020-02-28,0
+2188,Oregon,2020-02-28,0
+2189,Pennsylvania,2020-02-28,0
+2190,Puerto Rico,2020-02-28,0
+2191,Rhode Island,2020-02-28,0
+2192,South Carolina,2020-02-28,0
+2193,South Dakota,2020-02-28,0
+2194,Tennessee,2020-02-28,0
+2195,Texas,2020-02-28,0
+2196,Utah,2020-02-28,0
+2197,Vermont,2020-02-28,0
+2198,Virgin Islands,2020-02-28,0
+2199,Virginia,2020-02-28,0
+2200,Washington,2020-02-28,1
+2201,West Virginia,2020-02-28,0
+2202,Wisconsin,2020-02-28,0
+2203,Wyoming,2020-02-28,0
+2204,Alabama,2020-02-29,0
+2205,Alaska,2020-02-29,0
+2206,American Samoa,2020-02-29,0
+2207,Arizona,2020-02-29,1
+2208,Arkansas,2020-02-29,0
+2209,California,2020-02-29,12
+2210,Colorado,2020-02-29,0
+2211,Connecticut,2020-02-29,0
+2212,Delaware,2020-02-29,0
+2213,Diamond Princess,2020-02-29,0
+2214,District of Columbia,2020-02-29,0
+2215,Florida,2020-02-29,0
+2216,Georgia,2020-02-29,0
+2217,Grand Princess,2020-02-29,0
+2218,Guam,2020-02-29,0
+2219,Hawaii,2020-02-29,0
+2220,Idaho,2020-02-29,0
+2221,Illinois,2020-02-29,2
+2222,Indiana,2020-02-29,0
+2223,Iowa,2020-02-29,0
+2224,Kansas,2020-02-29,0
+2225,Kentucky,2020-02-29,0
+2226,Louisiana,2020-02-29,0
+2227,Maine,2020-02-29,0
+2228,Maryland,2020-02-29,0
+2229,Massachusetts,2020-02-29,1
+2230,Michigan,2020-02-29,0
+2231,Minnesota,2020-02-29,0
+2232,Mississippi,2020-02-29,0
+2233,Missouri,2020-02-29,0
+2234,Montana,2020-02-29,0
+2235,Nebraska,2020-02-29,0
+2236,Nevada,2020-02-29,0
+2237,New Hampshire,2020-02-29,0
+2238,New Jersey,2020-02-29,0
+2239,New Mexico,2020-02-29,0
+2240,New York,2020-02-29,0
+2241,North Carolina,2020-02-29,0
+2242,North Dakota,2020-02-29,0
+2243,Northern Mariana Islands,2020-02-29,0
+2244,Ohio,2020-02-29,0
+2245,Oklahoma,2020-02-29,0
+2246,Oregon,2020-02-29,1
+2247,Pennsylvania,2020-02-29,0
+2248,Puerto Rico,2020-02-29,0
+2249,Rhode Island,2020-02-29,0
+2250,South Carolina,2020-02-29,0
+2251,South Dakota,2020-02-29,0
+2252,Tennessee,2020-02-29,0
+2253,Texas,2020-02-29,0
+2254,Utah,2020-02-29,0
+2255,Vermont,2020-02-29,0
+2256,Virgin Islands,2020-02-29,0
+2257,Virginia,2020-02-29,0
+2258,Washington,2020-02-29,7
+2259,West Virginia,2020-02-29,0
+2260,Wisconsin,2020-02-29,0
+2261,Wyoming,2020-02-29,0
 2262,Alabama,2020-03-01,0
 2263,Alaska,2020-03-01,0
 2264,American Samoa,2020-03-01,0
@@ -1800,7 +4062,7 @@
 4060,Alabama,2020-04-01,1060
 4061,Alaska,2020-04-01,132
 4062,American Samoa,2020-04-01,0
-4063,Arizona,2020-04-01,1530
+4063,Arizona,2020-04-01,1413
 4064,Arkansas,2020-04-01,584
 4065,California,2020-04-01,9399
 4066,Colorado,2020-04-01,2982
@@ -1830,9 +4092,9 @@
 4090,Montana,2020-04-01,208
 4091,Nebraska,2020-04-01,210
 4092,Nevada,2020-04-01,1279
-4093,New Hampshire,2020-04-01,357
+4093,New Hampshire,2020-04-01,367
 4094,New Jersey,2020-04-01,22255
-4095,New Mexico,2020-04-01,340
+4095,New Mexico,2020-04-01,327
 4096,New York,2020-04-01,83948
 4097,North Carolina,2020-04-01,1675
 4098,North Dakota,2020-04-01,142
@@ -1858,7 +4120,7 @@
 4118,Alabama,2020-04-02,1233
 4119,Alaska,2020-04-02,143
 4120,American Samoa,2020-04-02,0
-4121,Arizona,2020-04-02,1715
+4121,Arizona,2020-04-02,1596
 4122,Arkansas,2020-04-02,643
 4123,California,2020-04-02,10773
 4124,Colorado,2020-04-02,3342
@@ -1890,7 +4152,7 @@
 4150,Nevada,2020-04-02,1463
 4151,New Hampshire,2020-04-02,479
 4152,New Jersey,2020-04-02,25590
-4153,New Mexico,2020-04-02,388
+4153,New Mexico,2020-04-02,373
 4154,New York,2020-04-02,92506
 4155,North Carolina,2020-04-02,1977
 4156,North Dakota,2020-04-02,159
@@ -1905,7 +4167,7 @@
 4165,South Dakota,2020-04-02,165
 4166,Tennessee,2020-04-02,3013
 4167,Texas,2020-04-02,5069
-4168,Utah,2020-04-02,1092
+4168,Utah,2020-04-02,1086
 4169,Vermont,2020-04-02,338
 4170,Virgin Islands,2020-04-02,30
 4171,Virginia,2020-04-02,1706
@@ -1916,7 +4178,7 @@
 4176,Alabama,2020-04-03,1495
 4177,Alaska,2020-04-03,157
 4178,American Samoa,2020-04-03,0
-4179,Arizona,2020-04-03,1937
+4179,Arizona,2020-04-03,1769
 4180,Arkansas,2020-04-03,704
 4181,California,2020-04-03,12004
 4182,Colorado,2020-04-03,3742
@@ -1948,11 +4210,11 @@
 4208,Nevada,2020-04-03,1514
 4209,New Hampshire,2020-04-03,479
 4210,New Jersey,2020-04-03,29895
-4211,New Mexico,2020-04-03,534
+4211,New Mexico,2020-04-03,490
 4212,New York,2020-04-03,102987
 4213,North Carolina,2020-04-03,2251
 4214,North Dakota,2020-04-03,173
-4215,Northern Mariana Islands,2020-04-03,6
+4215,Northern Mariana Islands,2020-04-03,8
 4216,Ohio,2020-04-03,3312
 4217,Oklahoma,2020-04-03,990
 4218,Oregon,2020-04-03,899
@@ -1963,7 +4225,7 @@
 4223,South Dakota,2020-04-03,187
 4224,Tennessee,2020-04-03,3067
 4225,Texas,2020-04-03,5734
-4226,Utah,2020-04-03,1253
+4226,Utah,2020-04-03,1248
 4227,Vermont,2020-04-03,389
 4228,Virgin Islands,2020-04-03,37
 4229,Virginia,2020-04-03,2012
@@ -1974,7 +4236,7 @@
 4234,Alabama,2020-04-04,1614
 4235,Alaska,2020-04-04,171
 4236,American Samoa,2020-04-04,0
-4237,Arizona,2020-04-04,2187
+4237,Arizona,2020-04-04,2019
 4238,Arkansas,2020-04-04,743
 4239,California,2020-04-04,12837
 4240,Colorado,2020-04-04,4188
@@ -2006,11 +4268,11 @@
 4266,Nevada,2020-04-04,1742
 4267,New Hampshire,2020-04-04,540
 4268,New Jersey,2020-04-04,34124
-4269,New Mexico,2020-04-04,534
+4269,New Mexico,2020-04-04,506
 4270,New York,2020-04-04,113833
 4271,North Carolina,2020-04-04,2486
 4272,North Dakota,2020-04-04,186
-4273,Northern Mariana Islands,2020-04-04,6
+4273,Northern Mariana Islands,2020-04-04,8
 4274,Ohio,2020-04-04,3739
 4275,Oklahoma,2020-04-04,1161
 4276,Oregon,2020-04-04,899
@@ -2021,7 +4283,7 @@
 4281,South Dakota,2020-04-04,212
 4282,Tennessee,2020-04-04,3322
 4283,Texas,2020-04-04,6567
-4284,Utah,2020-04-04,1432
+4284,Utah,2020-04-04,1428
 4285,Vermont,2020-04-04,461
 4286,Virgin Islands,2020-04-04,40
 4287,Virginia,2020-04-04,2407
@@ -2032,7 +4294,7 @@
 4292,Alabama,2020-04-05,1765
 4293,Alaska,2020-04-05,185
 4294,American Samoa,2020-04-05,0
-4295,Arizona,2020-04-05,2486
+4295,Arizona,2020-04-05,2269
 4296,Arkansas,2020-04-05,837
 4297,California,2020-04-05,15034
 4298,Colorado,2020-04-05,4950
@@ -2064,11 +4326,11 @@
 4324,Nevada,2020-04-05,1855
 4325,New Hampshire,2020-04-05,621
 4326,New Jersey,2020-04-05,37505
-4327,New Mexico,2020-04-05,670
+4327,New Mexico,2020-04-05,624
 4328,New York,2020-04-05,123160
 4329,North Carolina,2020-04-05,2649
 4330,North Dakota,2020-04-05,207
-4331,Northern Mariana Islands,2020-04-05,6
+4331,Northern Mariana Islands,2020-04-05,8
 4332,Ohio,2020-04-05,4043
 4333,Oklahoma,2020-04-05,1254
 4334,Oregon,2020-04-05,1068
@@ -2079,7 +4341,7 @@
 4339,South Dakota,2020-04-05,240
 4340,Tennessee,2020-04-05,3633
 4341,Texas,2020-04-05,7209
-4342,Utah,2020-04-05,1603
+4342,Utah,2020-04-05,1601
 4343,Vermont,2020-04-05,512
 4344,Virgin Islands,2020-04-05,42
 4345,Virginia,2020-04-05,2640
@@ -2090,7 +4352,7 @@
 4350,Alabama,2020-04-06,1952
 4351,Alaska,2020-04-06,190
 4352,American Samoa,2020-04-06,0
-4353,Arizona,2020-04-06,2732
+4353,Arizona,2020-04-06,2460
 4354,Arkansas,2020-04-06,875
 4355,California,2020-04-06,16019
 4356,Colorado,2020-04-06,5183
@@ -2122,11 +4384,11 @@
 4382,Nevada,2020-04-06,1953
 4383,New Hampshire,2020-04-06,715
 4384,New Jersey,2020-04-06,41090
-4385,New Mexico,2020-04-06,757
+4385,New Mexico,2020-04-06,686
 4386,New York,2020-04-06,131815
 4387,North Carolina,2020-04-06,2962
 4388,North Dakota,2020-04-06,225
-4389,Northern Mariana Islands,2020-04-06,6
+4389,Northern Mariana Islands,2020-04-06,8
 4390,Ohio,2020-04-06,4453
 4391,Oklahoma,2020-04-06,1329
 4392,Oregon,2020-04-06,1068
@@ -2137,7 +4399,7 @@
 4397,South Dakota,2020-04-06,288
 4398,Tennessee,2020-04-06,3802
 4399,Texas,2020-04-06,8043
-4400,Utah,2020-04-06,1680
+4400,Utah,2020-04-06,1678
 4401,Vermont,2020-04-06,543
 4402,Virgin Islands,2020-04-06,43
 4403,Virginia,2020-04-06,2878
@@ -2148,7 +4410,7 @@
 4408,Alabama,2020-04-07,2169
 4409,Alaska,2020-04-07,213
 4410,American Samoa,2020-04-07,0
-4411,Arizona,2020-04-07,2870
+4411,Arizona,2020-04-07,2575
 4412,Arkansas,2020-04-07,946
 4413,California,2020-04-07,17351
 4414,Colorado,2020-04-07,5429
@@ -2162,7 +4424,7 @@
 4422,Guam,2020-04-07,121
 4423,Hawaii,2020-04-07,410
 4424,Idaho,2020-04-07,1170
-4425,Illinois,2020-04-07,12271
+4425,Illinois,2020-04-07,13553
 4426,Indiana,2020-04-07,5510
 4427,Iowa,2020-04-07,1046
 4428,Kansas,2020-04-07,912
@@ -2180,11 +4442,11 @@
 4440,Nevada,2020-04-07,2124
 4441,New Hampshire,2020-04-07,715
 4442,New Jersey,2020-04-07,44416
-4443,New Mexico,2020-04-07,876
+4443,New Mexico,2020-04-07,794
 4444,New York,2020-04-07,139875
 4445,North Carolina,2020-04-07,3299
 4446,North Dakota,2020-04-07,237
-4447,Northern Mariana Islands,2020-04-07,6
+4447,Northern Mariana Islands,2020-04-07,8
 4448,Ohio,2020-04-07,4782
 4449,Oklahoma,2020-04-07,1474
 4450,Oregon,2020-04-07,1132
@@ -2195,7 +4457,7 @@
 4455,South Dakota,2020-04-07,320
 4456,Tennessee,2020-04-07,4139
 4457,Texas,2020-04-07,8925
-4458,Utah,2020-04-07,1746
+4458,Utah,2020-04-07,1739
 4459,Vermont,2020-04-07,575
 4460,Virgin Islands,2020-04-07,43
 4461,Virginia,2020-04-07,3335
@@ -2206,7 +4468,7 @@
 4466,Alabama,2020-04-08,2328
 4467,Alaska,2020-04-08,226
 4468,American Samoa,2020-04-08,0
-4469,Arizona,2020-04-08,3036
+4469,Arizona,2020-04-08,2726
 4470,Arkansas,2020-04-08,1000
 4471,California,2020-04-08,18897
 4472,Colorado,2020-04-08,5655
@@ -2238,11 +4500,11 @@
 4498,Nevada,2020-04-08,2259
 4499,New Hampshire,2020-04-08,747
 4500,New Jersey,2020-04-08,47437
-4501,New Mexico,2020-04-08,902
+4501,New Mexico,2020-04-08,821
 4502,New York,2020-04-08,151061
 4503,North Carolina,2020-04-08,3499
 4504,North Dakota,2020-04-08,251
-4505,Northern Mariana Islands,2020-04-08,6
+4505,Northern Mariana Islands,2020-04-08,11
 4506,Ohio,2020-04-08,5148
 4507,Oklahoma,2020-04-08,1526
 4508,Oregon,2020-04-08,1181
@@ -2253,7 +4515,7 @@
 4513,South Dakota,2020-04-08,393
 4514,Tennessee,2020-04-08,4363
 4515,Texas,2020-04-08,9777
-4516,Utah,2020-04-08,1855
+4516,Utah,2020-04-08,1848
 4517,Vermont,2020-04-08,605
 4518,Virgin Islands,2020-04-08,45
 4519,Virginia,2020-04-08,3645
@@ -2278,7 +4540,7 @@
 4538,Guam,2020-04-09,128
 4539,Hawaii,2020-04-09,442
 4540,Idaho,2020-04-09,1232
-4541,Illinois,2020-04-09,15079
+4541,Illinois,2020-04-09,16422
 4542,Indiana,2020-04-09,6351
 4543,Iowa,2020-04-09,1270
 4544,Kansas,2020-04-09,1116
@@ -2300,7 +4562,7 @@
 4560,New York,2020-04-09,161779
 4561,North Carolina,2020-04-09,3736
 4562,North Dakota,2020-04-09,269
-4563,Northern Mariana Islands,2020-04-09,6
+4563,Northern Mariana Islands,2020-04-09,11
 4564,Ohio,2020-04-09,5512
 4565,Oklahoma,2020-04-09,1686
 4566,Oregon,2020-04-09,1321
@@ -2358,7 +4620,7 @@
 4618,New York,2020-04-10,172348
 4619,North Carolina,2020-04-10,3965
 4620,North Dakota,2020-04-10,278
-4621,Northern Mariana Islands,2020-04-10,6
+4621,Northern Mariana Islands,2020-04-10,11
 4622,Ohio,2020-04-10,5878
 4623,Oklahoma,2020-04-10,1794
 4624,Oregon,2020-04-10,1322
@@ -2416,7 +4678,7 @@
 4676,New York,2020-04-11,181026
 4677,North Carolina,2020-04-11,4354
 4678,North Dakota,2020-04-11,293
-4679,Northern Mariana Islands,2020-04-11,6
+4679,Northern Mariana Islands,2020-04-11,11
 4680,Ohio,2020-04-11,6250
 4681,Oklahoma,2020-04-11,1868
 4682,Oregon,2020-04-11,1371
@@ -2435,3 +4697,1279 @@
 4695,West Virginia,2020-04-11,577
 4696,Wisconsin,2020-04-11,3213
 4697,Wyoming,2020-04-11,261
+4698,Alabama,2020-04-12,3563
+4699,Alaska,2020-04-12,272
+4700,American Samoa,2020-04-12,0
+4701,Arizona,2020-04-12,3542
+4702,Arkansas,2020-04-12,1280
+4703,California,2020-04-12,22795
+4704,Colorado,2020-04-12,7307
+4705,Connecticut,2020-04-12,12035
+4706,Delaware,2020-04-12,1625
+4707,Diamond Princess,2020-04-12,49
+4708,District of Columbia,2020-04-12,1875
+4709,Florida,2020-04-12,19895
+4710,Georgia,2020-04-12,12452
+4711,Grand Princess,2020-04-12,103
+4712,Guam,2020-04-12,133
+4713,Hawaii,2020-04-12,499
+4714,Idaho,2020-04-12,1407
+4715,Illinois,2020-04-12,20852
+4716,Indiana,2020-04-12,7928
+4717,Iowa,2020-04-12,1587
+4718,Kansas,2020-04-12,1344
+4719,Kentucky,2020-04-12,1963
+4720,Louisiana,2020-04-12,20595
+4721,Maine,2020-04-12,633
+4722,Maryland,2020-04-12,8225
+4723,Massachusetts,2020-04-12,25475
+4724,Michigan,2020-04-12,24244
+4725,Minnesota,2020-04-12,1621
+4726,Mississippi,2020-04-12,2781
+4727,Missouri,2020-04-12,4269
+4728,Montana,2020-04-12,387
+4729,Nebraska,2020-04-12,791
+4730,Nevada,2020-04-12,2836
+4731,New Hampshire,2020-04-12,929
+4732,New Jersey,2020-04-12,61850
+4733,New Mexico,2020-04-12,1245
+4734,New York,2020-04-12,189033
+4735,North Carolina,2020-04-12,4570
+4736,North Dakota,2020-04-12,308
+4737,Northern Mariana Islands,2020-04-12,11
+4738,Ohio,2020-04-12,6604
+4739,Oklahoma,2020-04-12,1970
+4740,Oregon,2020-04-12,1527
+4741,Pennsylvania,2020-04-12,22938
+4742,Puerto Rico,2020-04-12,897
+4743,Rhode Island,2020-04-12,2665
+4744,South Carolina,2020-04-12,3320
+4745,South Dakota,2020-04-12,730
+4746,Tennessee,2020-04-12,5508
+4747,Texas,2020-04-12,13677
+4748,Utah,2020-04-12,2303
+4749,Vermont,2020-04-12,727
+4750,Virgin Islands,2020-04-12,51
+4751,Virginia,2020-04-12,5274
+4752,Washington,2020-04-12,10609
+4753,West Virginia,2020-04-12,593
+4754,Wisconsin,2020-04-12,3341
+4755,Wyoming,2020-04-12,270
+4756,Alabama,2020-04-13,3734
+4757,Alaska,2020-04-13,277
+4758,American Samoa,2020-04-13,0
+4759,Arizona,2020-04-13,3705
+4760,Arkansas,2020-04-13,1410
+4761,California,2020-04-13,23931
+4762,Colorado,2020-04-13,7691
+4763,Connecticut,2020-04-13,13381
+4764,Delaware,2020-04-13,1758
+4765,Diamond Princess,2020-04-13,49
+4766,District of Columbia,2020-04-13,1955
+4767,Florida,2020-04-13,21019
+4768,Georgia,2020-04-13,13315
+4769,Grand Princess,2020-04-13,103
+4770,Guam,2020-04-13,133
+4771,Hawaii,2020-04-13,504
+4772,Idaho,2020-04-13,1426
+4773,Illinois,2020-04-13,22025
+4774,Indiana,2020-04-13,8359
+4775,Iowa,2020-04-13,1710
+4776,Kansas,2020-04-13,1390
+4777,Kentucky,2020-04-13,2018
+4778,Louisiana,2020-04-13,21016
+4779,Maine,2020-04-13,698
+4780,Maryland,2020-04-13,8936
+4781,Massachusetts,2020-04-13,26867
+4782,Michigan,2020-04-13,25635
+4783,Minnesota,2020-04-13,1621
+4784,Mississippi,2020-04-13,2942
+4785,Missouri,2020-04-13,4515
+4786,Montana,2020-04-13,394
+4787,Nebraska,2020-04-13,814
+4788,Nevada,2020-04-13,2990
+4789,New Hampshire,2020-04-13,985
+4790,New Jersey,2020-04-13,64584
+4791,New Mexico,2020-04-13,1262
+4792,New York,2020-04-13,195749
+4793,North Carolina,2020-04-13,4886
+4794,North Dakota,2020-04-13,331
+4795,Northern Mariana Islands,2020-04-13,11
+4796,Ohio,2020-04-13,6975
+4797,Oklahoma,2020-04-13,2069
+4798,Oregon,2020-04-13,1584
+4799,Pennsylvania,2020-04-13,24292
+4800,Puerto Rico,2020-04-13,903
+4801,Rhode Island,2020-04-13,2665
+4802,South Carolina,2020-04-13,3391
+4803,South Dakota,2020-04-13,868
+4804,Tennessee,2020-04-13,5610
+4805,Texas,2020-04-13,14275
+4806,Utah,2020-04-13,2363
+4807,Vermont,2020-04-13,748
+4808,Virgin Islands,2020-04-13,51
+4809,Virginia,2020-04-13,5747
+4810,Washington,2020-04-13,10635
+4811,West Virginia,2020-04-13,611
+4812,Wisconsin,2020-04-13,3428
+4813,Wyoming,2020-04-13,275
+4814,Alabama,2020-04-14,3953
+4815,Alaska,2020-04-14,285
+4816,American Samoa,2020-04-14,0
+4817,Arizona,2020-04-14,3809
+4818,Arkansas,2020-04-14,1498
+4819,California,2020-04-14,25356
+4820,Colorado,2020-04-14,7950
+4821,Connecticut,2020-04-14,13989
+4822,Delaware,2020-04-14,1926
+4823,Diamond Princess,2020-04-14,49
+4824,District of Columbia,2020-04-14,2058
+4825,Florida,2020-04-14,21628
+4826,Georgia,2020-04-14,14578
+4827,Grand Princess,2020-04-14,103
+4828,Guam,2020-04-14,133
+4829,Hawaii,2020-04-14,511
+4830,Idaho,2020-04-14,1464
+4831,Illinois,2020-04-14,23248
+4832,Indiana,2020-04-14,8527
+4833,Iowa,2020-04-14,1899
+4834,Kansas,2020-04-14,1441
+4835,Kentucky,2020-04-14,2048
+4836,Louisiana,2020-04-14,21518
+4837,Maine,2020-04-14,735
+4838,Maryland,2020-04-14,9472
+4839,Massachusetts,2020-04-14,28164
+4840,Michigan,2020-04-14,27001
+4841,Minnesota,2020-04-14,1695
+4842,Mississippi,2020-04-14,3087
+4843,Missouri,2020-04-14,4746
+4844,Montana,2020-04-14,399
+4845,Nebraska,2020-04-14,897
+4846,Nevada,2020-04-14,3134
+4847,New Hampshire,2020-04-14,922
+4848,New Jersey,2020-04-14,68824
+4849,New Mexico,2020-04-14,1345
+4850,New York,2020-04-14,203020
+4851,North Carolina,2020-04-14,5113
+4852,North Dakota,2020-04-14,341
+4853,Northern Mariana Islands,2020-04-14,11
+4854,Ohio,2020-04-14,7285
+4855,Oklahoma,2020-04-14,2184
+4856,Oregon,2020-04-14,1633
+4857,Pennsylvania,2020-04-14,25465
+4858,Puerto Rico,2020-04-14,923
+4859,Rhode Island,2020-04-14,3251
+4860,South Carolina,2020-04-14,3553
+4861,South Dakota,2020-04-14,988
+4862,Tennessee,2020-04-14,5827
+4863,Texas,2020-04-14,15006
+4864,Utah,2020-04-14,2417
+4865,Vermont,2020-04-14,752
+4866,Virgin Islands,2020-04-14,51
+4867,Virginia,2020-04-14,6182
+4868,Washington,2020-04-14,10799
+4869,West Virginia,2020-04-14,640
+4870,Wisconsin,2020-04-14,3555
+4871,Wyoming,2020-04-14,282
+4872,Alabama,2020-04-15,4075
+4873,Alaska,2020-04-15,293
+4874,American Samoa,2020-04-15,0
+4875,Arizona,2020-04-15,3964
+4876,Arkansas,2020-04-15,1569
+4877,California,2020-04-15,26686
+4878,Colorado,2020-04-15,7956
+4879,Connecticut,2020-04-15,14755
+4880,Delaware,2020-04-15,2014
+4881,Diamond Princess,2020-04-15,49
+4882,District of Columbia,2020-04-15,2197
+4883,Florida,2020-04-15,22511
+4884,Georgia,2020-04-15,14987
+4885,Grand Princess,2020-04-15,103
+4886,Guam,2020-04-15,135
+4887,Hawaii,2020-04-15,524
+4888,Idaho,2020-04-15,1473
+4889,Illinois,2020-04-15,24593
+4890,Indiana,2020-04-15,8960
+4891,Iowa,2020-04-15,1995
+4892,Kansas,2020-04-15,1504
+4893,Kentucky,2020-04-15,2210
+4894,Louisiana,2020-04-15,21951
+4895,Maine,2020-04-15,770
+4896,Maryland,2020-04-15,10032
+4897,Massachusetts,2020-04-15,29918
+4898,Michigan,2020-04-15,28059
+4899,Minnesota,2020-04-15,1809
+4900,Mississippi,2020-04-15,3360
+4901,Missouri,2020-04-15,4791
+4902,Montana,2020-04-15,404
+4903,Nebraska,2020-04-15,901
+4904,Nevada,2020-04-15,3211
+4905,New Hampshire,2020-04-15,1139
+4906,New Jersey,2020-04-15,71030
+4907,New Mexico,2020-04-15,1484
+4908,New York,2020-04-15,214454
+4909,North Carolina,2020-04-15,5340
+4910,North Dakota,2020-04-15,365
+4911,Northern Mariana Islands,2020-04-15,13
+4912,Ohio,2020-04-15,7794
+4913,Oklahoma,2020-04-15,2263
+4914,Oregon,2020-04-15,1663
+4915,Pennsylvania,2020-04-15,26753
+4916,Puerto Rico,2020-04-15,974
+4917,Rhode Island,2020-04-15,3251
+4918,South Carolina,2020-04-15,3656
+4919,South Dakota,2020-04-15,1168
+4920,Tennessee,2020-04-15,5827
+4921,Texas,2020-04-15,15907
+4922,Utah,2020-04-15,2548
+4923,Vermont,2020-04-15,759
+4924,Virgin Islands,2020-04-15,51
+4925,Virginia,2020-04-15,6500
+4926,Washington,2020-04-15,10942
+4927,West Virginia,2020-04-15,702
+4928,Wisconsin,2020-04-15,3721
+4929,Wyoming,2020-04-15,287
+4930,Alabama,2020-04-16,4345
+4931,Alaska,2020-04-16,300
+4932,American Samoa,2020-04-16,0
+4933,Arizona,2020-04-16,4237
+4934,Arkansas,2020-04-16,1620
+4935,California,2020-04-16,27677
+4936,Colorado,2020-04-16,8286
+4937,Connecticut,2020-04-16,15884
+4938,Delaware,2020-04-16,2070
+4939,Diamond Princess,2020-04-16,49
+4940,District of Columbia,2020-04-16,2350
+4941,Florida,2020-04-16,23343
+4942,Georgia,2020-04-16,15669
+4943,Grand Princess,2020-04-16,103
+4944,Guam,2020-04-16,135
+4945,Hawaii,2020-04-16,530
+4946,Idaho,2020-04-16,1587
+4947,Illinois,2020-04-16,25734
+4948,Indiana,2020-04-16,9542
+4949,Iowa,2020-04-16,2141
+4950,Kansas,2020-04-16,1615
+4951,Kentucky,2020-04-16,2435
+4952,Louisiana,2020-04-16,22532
+4953,Maine,2020-04-16,796
+4954,Maryland,2020-04-16,10784
+4955,Massachusetts,2020-04-16,32181
+4956,Michigan,2020-04-16,28809
+4957,Minnesota,2020-04-16,1809
+4958,Mississippi,2020-04-16,3624
+4959,Missouri,2020-04-16,5174
+4960,Montana,2020-04-16,415
+4961,Nebraska,2020-04-16,952
+4962,Nevada,2020-04-16,3214
+4963,New Hampshire,2020-04-16,1139
+4964,New Jersey,2020-04-16,75317
+4965,New Mexico,2020-04-16,1484
+4966,New York,2020-04-16,223691
+4967,North Carolina,2020-04-16,5639
+4968,North Dakota,2020-04-16,393
+4969,Northern Mariana Islands,2020-04-16,13
+4970,Ohio,2020-04-16,8414
+4971,Oklahoma,2020-04-16,2357
+4972,Oregon,2020-04-16,1736
+4973,Pennsylvania,2020-04-16,28258
+4974,Puerto Rico,2020-04-16,1043
+4975,Rhode Island,2020-04-16,3529
+4976,South Carolina,2020-04-16,3931
+4977,South Dakota,2020-04-16,1311
+4978,Tennessee,2020-04-16,6166
+4979,Texas,2020-04-16,16876
+4980,Utah,2020-04-16,2683
+4981,Vermont,2020-04-16,774
+4982,Virgin Islands,2020-04-16,51
+4983,Virginia,2020-04-16,6889
+4984,Washington,2020-04-16,11057
+4985,West Virginia,2020-04-16,728
+4986,Wisconsin,2020-04-16,3875
+4987,Wyoming,2020-04-16,296
+4988,Alabama,2020-04-17,4571
+4989,Alaska,2020-04-17,309
+4990,American Samoa,2020-04-17,0
+4991,Arizona,2020-04-17,4511
+4992,Arkansas,2020-04-17,1695
+4993,California,2020-04-17,29157
+4994,Colorado,2020-04-17,8691
+4995,Connecticut,2020-04-17,16809
+4996,Delaware,2020-04-17,2317
+4997,Diamond Princess,2020-04-17,49
+4998,District of Columbia,2020-04-17,2476
+4999,Florida,2020-04-17,24759
+5000,Georgia,2020-04-17,17194
+5001,Grand Princess,2020-04-17,103
+5002,Guam,2020-04-17,136
+5003,Hawaii,2020-04-17,541
+5004,Idaho,2020-04-17,1609
+5005,Illinois,2020-04-17,27578
+5006,Indiana,2020-04-17,10154
+5007,Iowa,2020-04-17,2332
+5008,Kansas,2020-04-17,1730
+5009,Kentucky,2020-04-17,2522
+5010,Louisiana,2020-04-17,23118
+5011,Maine,2020-04-17,827
+5012,Maryland,2020-04-17,11572
+5013,Massachusetts,2020-04-17,34402
+5014,Michigan,2020-04-17,30023
+5015,Minnesota,2020-04-17,2070
+5016,Mississippi,2020-04-17,3793
+5017,Missouri,2020-04-17,5371
+5018,Montana,2020-04-17,422
+5019,Nebraska,2020-04-17,1066
+5020,Nevada,2020-04-17,3524
+5021,New Hampshire,2020-04-17,1287
+5022,New Jersey,2020-04-17,78467
+5023,New Mexico,2020-04-17,1597
+5024,New York,2020-04-17,230597
+5025,North Carolina,2020-04-17,6045
+5026,North Dakota,2020-04-17,393
+5027,Northern Mariana Islands,2020-04-17,13
+5028,Ohio,2020-04-17,9107
+5029,Oklahoma,2020-04-17,2465
+5030,Oregon,2020-04-17,1785
+5031,Pennsylvania,2020-04-17,29888
+5032,Puerto Rico,2020-04-17,1068
+5033,Rhode Island,2020-04-17,4177
+5034,South Carolina,2020-04-17,4099
+5035,South Dakota,2020-04-17,1411
+5036,Tennessee,2020-04-17,6263
+5037,Texas,2020-04-17,17849
+5038,Utah,2020-04-17,2793
+5039,Vermont,2020-04-17,779
+5040,Virgin Islands,2020-04-17,51
+5041,Virginia,2020-04-17,7491
+5042,Washington,2020-04-17,11517
+5043,West Virginia,2020-04-17,775
+5044,Wisconsin,2020-04-17,4053
+5045,Wyoming,2020-04-17,305
+5046,Alabama,2020-04-18,4712
+5047,Alaska,2020-04-18,314
+5048,American Samoa,2020-04-18,0
+5049,Arizona,2020-04-18,4724
+5050,Arkansas,2020-04-18,1744
+5051,California,2020-04-18,30491
+5052,Colorado,2020-04-18,9047
+5053,Connecticut,2020-04-18,17550
+5054,Delaware,2020-04-18,2538
+5055,Diamond Princess,2020-04-18,49
+5056,District of Columbia,2020-04-18,2666
+5057,Florida,2020-04-18,25492
+5058,Georgia,2020-04-18,17669
+5059,Grand Princess,2020-04-18,103
+5060,Guam,2020-04-18,136
+5061,Hawaii,2020-04-18,574
+5062,Idaho,2020-04-18,1655
+5063,Illinois,2020-04-18,29160
+5064,Indiana,2020-04-18,10641
+5065,Iowa,2020-04-18,2513
+5066,Kansas,2020-04-18,1821
+5067,Kentucky,2020-04-18,2707
+5068,Louisiana,2020-04-18,23580
+5069,Maine,2020-04-18,847
+5070,Maryland,2020-04-18,12326
+5071,Massachusetts,2020-04-18,36372
+5072,Michigan,2020-04-18,30791
+5073,Minnesota,2020-04-18,2209
+5074,Mississippi,2020-04-18,3974
+5075,Missouri,2020-04-18,5579
+5076,Montana,2020-04-18,426
+5077,Nebraska,2020-04-18,1249
+5078,Nevada,2020-04-18,3626
+5079,New Hampshire,2020-04-18,1342
+5080,New Jersey,2020-04-18,81420
+5081,New Mexico,2020-04-18,1798
+5082,New York,2020-04-18,237474
+5083,North Carolina,2020-04-18,6328
+5084,North Dakota,2020-04-18,528
+5085,Northern Mariana Islands,2020-04-18,14
+5086,Ohio,2020-04-18,10222
+5087,Oklahoma,2020-04-18,2465
+5088,Oregon,2020-04-18,1844
+5089,Pennsylvania,2020-04-18,31652
+5090,Puerto Rico,2020-04-18,1118
+5091,Rhode Island,2020-04-18,4491
+5092,South Carolina,2020-04-18,4248
+5093,South Dakota,2020-04-18,1542
+5094,Tennessee,2020-04-18,6589
+5095,Texas,2020-04-18,18704
+5096,Utah,2020-04-18,2917
+5097,Vermont,2020-04-18,803
+5098,Virgin Islands,2020-04-18,53
+5099,Virginia,2020-04-18,8053
+5100,Washington,2020-04-18,11776
+5101,West Virginia,2020-04-18,785
+5102,Wisconsin,2020-04-18,4199
+5103,Wyoming,2020-04-18,309
+5104,Alabama,2020-04-19,4888
+5105,Alaska,2020-04-19,319
+5106,American Samoa,2020-04-19,0
+5107,Arizona,2020-04-19,4933
+5108,Arkansas,2020-04-19,1781
+5109,California,2020-04-19,31431
+5110,Colorado,2020-04-19,9730
+5111,Connecticut,2020-04-19,17962
+5112,Delaware,2020-04-19,2538
+5113,Diamond Princess,2020-04-19,49
+5114,District of Columbia,2020-04-19,2793
+5115,Florida,2020-04-19,26314
+5116,Georgia,2020-04-19,18301
+5117,Grand Princess,2020-04-19,103
+5118,Guam,2020-04-19,136
+5119,Hawaii,2020-04-19,580
+5120,Idaho,2020-04-19,1668
+5121,Illinois,2020-04-19,30357
+5122,Indiana,2020-04-19,11211
+5123,Iowa,2020-04-19,2902
+5124,Kansas,2020-04-19,1905
+5125,Kentucky,2020-04-19,2960
+5126,Louisiana,2020-04-19,23928
+5127,Maine,2020-04-19,867
+5128,Maryland,2020-04-19,12847
+5129,Massachusetts,2020-04-19,38077
+5130,Michigan,2020-04-19,31424
+5131,Minnesota,2020-04-19,2356
+5132,Mississippi,2020-04-19,4274
+5133,Missouri,2020-04-19,5743
+5134,Montana,2020-04-19,433
+5135,Nebraska,2020-04-19,1474
+5136,Nevada,2020-04-19,3728
+5137,New Hampshire,2020-04-19,1390
+5138,New Jersey,2020-04-19,85301
+5139,New Mexico,2020-04-19,1845
+5140,New York,2020-04-19,243382
+5141,North Carolina,2020-04-19,6601
+5142,North Dakota,2020-04-19,585
+5143,Northern Mariana Islands,2020-04-19,14
+5144,Ohio,2020-04-19,11602
+5145,Oklahoma,2020-04-19,2567
+5146,Oregon,2020-04-19,1910
+5147,Pennsylvania,2020-04-19,32902
+5148,Puerto Rico,2020-04-19,1213
+5149,Rhode Island,2020-04-19,4706
+5150,South Carolina,2020-04-19,4377
+5151,South Dakota,2020-04-19,1635
+5152,Tennessee,2020-04-19,7070
+5153,Texas,2020-04-19,19260
+5154,Utah,2020-04-19,3069
+5155,Vermont,2020-04-19,813
+5156,Virgin Islands,2020-04-19,53
+5157,Virginia,2020-04-19,8542
+5158,Washington,2020-04-19,11978
+5159,West Virginia,2020-04-19,890
+5160,Wisconsin,2020-04-19,4346
+5161,Wyoming,2020-04-19,313
+5162,Alabama,2020-04-20,5079
+5163,Alaska,2020-04-20,321
+5164,American Samoa,2020-04-20,0
+5165,Arizona,2020-04-20,5068
+5166,Arkansas,2020-04-20,1973
+5167,California,2020-04-20,33686
+5168,Colorado,2020-04-20,9730
+5169,Connecticut,2020-04-20,19815
+5170,Delaware,2020-04-20,2745
+5171,Diamond Princess,2020-04-20,49
+5172,District of Columbia,2020-04-20,2927
+5173,Florida,2020-04-20,27059
+5174,Georgia,2020-04-20,19407
+5175,Grand Princess,2020-04-20,103
+5176,Guam,2020-04-20,136
+5177,Hawaii,2020-04-20,584
+5178,Idaho,2020-04-20,1672
+5179,Illinois,2020-04-20,31513
+5180,Indiana,2020-04-20,11688
+5181,Iowa,2020-04-20,3159
+5182,Kansas,2020-04-20,2048
+5183,Kentucky,2020-04-20,3050
+5184,Louisiana,2020-04-20,24523
+5185,Maine,2020-04-20,875
+5186,Maryland,2020-04-20,13684
+5187,Massachusetts,2020-04-20,38077
+5188,Michigan,2020-04-20,32000
+5189,Minnesota,2020-04-20,2470
+5190,Mississippi,2020-04-20,4512
+5191,Missouri,2020-04-20,5890
+5192,Montana,2020-04-20,433
+5193,Nebraska,2020-04-20,1648
+5194,Nevada,2020-04-20,3830
+5195,New Hampshire,2020-04-20,1447
+5196,New Jersey,2020-04-20,88722
+5197,New Mexico,2020-04-20,1971
+5198,New York,2020-04-20,248416
+5199,North Carolina,2020-04-20,6895
+5200,North Dakota,2020-04-20,627
+5201,Northern Mariana Islands,2020-04-20,14
+5202,Ohio,2020-04-20,12919
+5203,Oklahoma,2020-04-20,2680
+5204,Oregon,2020-04-20,1957
+5205,Pennsylvania,2020-04-20,33914
+5206,Puerto Rico,2020-04-20,1252
+5207,Rhode Island,2020-04-20,5090
+5208,South Carolina,2020-04-20,4446
+5209,South Dakota,2020-04-20,1685
+5210,Tennessee,2020-04-20,7238
+5211,Texas,2020-04-20,19751
+5212,Utah,2020-04-20,3213
+5213,Vermont,2020-04-20,816
+5214,Virgin Islands,2020-04-20,53
+5215,Virginia,2020-04-20,8990
+5216,Washington,2020-04-20,12114
+5217,West Virginia,2020-04-20,902
+5218,Wisconsin,2020-04-20,4499
+5219,Wyoming,2020-04-20,317
+5220,Alabama,2020-04-21,5317
+5221,Alaska,2020-04-21,329
+5222,American Samoa,2020-04-21,0
+5223,Arizona,2020-04-21,5256
+5224,Arkansas,2020-04-21,1990
+5225,California,2020-04-21,35465
+5226,Colorado,2020-04-21,10473
+5227,Connecticut,2020-04-21,20360
+5228,Delaware,2020-04-21,2931
+5229,Diamond Princess,2020-04-21,49
+5230,District of Columbia,2020-04-21,3098
+5231,Florida,2020-04-21,27869
+5232,Georgia,2020-04-21,19881
+5233,Grand Princess,2020-04-21,103
+5234,Guam,2020-04-21,136
+5235,Hawaii,2020-04-21,586
+5236,Idaho,2020-04-21,1736
+5237,Illinois,2020-04-21,33059
+5238,Indiana,2020-04-21,12097
+5239,Iowa,2020-04-21,3641
+5240,Kansas,2020-04-21,2164
+5241,Kentucky,2020-04-21,3204
+5242,Louisiana,2020-04-21,24854
+5243,Maine,2020-04-21,888
+5244,Maryland,2020-04-21,14193
+5245,Massachusetts,2020-04-21,41199
+5246,Michigan,2020-04-21,32667
+5247,Minnesota,2020-04-21,2567
+5248,Mississippi,2020-04-21,4716
+5249,Missouri,2020-04-21,6066
+5250,Montana,2020-04-21,437
+5251,Nebraska,2020-04-21,1685
+5252,Nevada,2020-04-21,3937
+5253,New Hampshire,2020-04-21,1490
+5254,New Jersey,2020-04-21,92387
+5255,New Mexico,2020-04-21,1971
+5256,New York,2020-04-21,253519
+5257,North Carolina,2020-04-21,7134
+5258,North Dakota,2020-04-21,644
+5259,Northern Mariana Islands,2020-04-21,14
+5260,Ohio,2020-04-21,13725
+5261,Oklahoma,2020-04-21,2807
+5262,Oregon,2020-04-21,2004
+5263,Pennsylvania,2020-04-21,35249
+5264,Puerto Rico,2020-04-21,1298
+5265,Rhode Island,2020-04-21,5500
+5266,South Carolina,2020-04-21,4439
+5267,South Dakota,2020-04-21,1755
+5268,Tennessee,2020-04-21,7394
+5269,Texas,2020-04-21,20574
+5270,Utah,2020-04-21,3297
+5271,Vermont,2020-04-21,818
+5272,Virgin Islands,2020-04-21,53
+5273,Virginia,2020-04-21,9630
+5274,Washington,2020-04-21,12392
+5275,West Virginia,2020-04-21,908
+5276,Wisconsin,2020-04-21,4625
+5277,Wyoming,2020-04-21,443
+5278,Alabama,2020-04-22,5593
+5279,Alaska,2020-04-22,335
+5280,American Samoa,2020-04-22,0
+5281,Arizona,2020-04-22,5473
+5282,Arkansas,2020-04-22,2276
+5283,California,2020-04-22,37344
+5284,Colorado,2020-04-22,10891
+5285,Connecticut,2020-04-22,22469
+5286,Delaware,2020-04-22,3200
+5287,Diamond Princess,2020-04-22,49
+5288,District of Columbia,2020-04-22,3206
+5289,Florida,2020-04-22,28309
+5290,Georgia,2020-04-22,21214
+5291,Grand Princess,2020-04-22,103
+5292,Guam,2020-04-22,136
+5293,Hawaii,2020-04-22,592
+5294,Idaho,2020-04-22,1766
+5295,Illinois,2020-04-22,35107
+5296,Indiana,2020-04-22,12438
+5297,Iowa,2020-04-22,3748
+5298,Kansas,2020-04-22,2331
+5299,Kentucky,2020-04-22,3378
+5300,Louisiana,2020-04-22,25258
+5301,Maine,2020-04-22,907
+5302,Maryland,2020-04-22,14775
+5303,Massachusetts,2020-04-22,42944
+5304,Michigan,2020-04-22,33966
+5305,Minnesota,2020-04-22,2722
+5306,Mississippi,2020-04-22,4894
+5307,Missouri,2020-04-22,6277
+5308,Montana,2020-04-22,439
+5309,Nebraska,2020-04-22,1813
+5310,Nevada,2020-04-22,4081
+5311,New Hampshire,2020-04-22,1588
+5312,New Jersey,2020-04-22,95914
+5313,New Mexico,2020-04-22,2210
+5314,New York,2020-04-22,258222
+5315,North Carolina,2020-04-22,7495
+5316,North Dakota,2020-04-22,679
+5317,Northern Mariana Islands,2020-04-22,14
+5318,Ohio,2020-04-22,14117
+5319,Oklahoma,2020-04-22,2894
+5320,Oregon,2020-04-22,2059
+5321,Pennsylvania,2020-04-22,36082
+5322,Puerto Rico,2020-04-22,1252
+5323,Rhode Island,2020-04-22,5841
+5324,South Carolina,2020-04-22,4761
+5325,South Dakota,2020-04-22,1858
+5326,Tennessee,2020-04-22,7394
+5327,Texas,2020-04-22,21321
+5328,Utah,2020-04-22,3445
+5329,Vermont,2020-04-22,823
+5330,Virgin Islands,2020-04-22,54
+5331,Virginia,2020-04-22,10266
+5332,Washington,2020-04-22,12596
+5333,West Virginia,2020-04-22,939
+5334,Wisconsin,2020-04-22,4845
+5335,Wyoming,2020-04-22,447
+5336,Alabama,2020-04-23,5832
+5337,Alaska,2020-04-23,337
+5338,American Samoa,2020-04-23,0
+5339,Arizona,2020-04-23,5772
+5340,Arkansas,2020-04-23,2599
+5341,California,2020-04-23,39561
+5342,Colorado,2020-04-23,11278
+5343,Connecticut,2020-04-23,23100
+5344,Delaware,2020-04-23,3308
+5345,Diamond Princess,2020-04-23,49
+5346,District of Columbia,2020-04-23,3361
+5347,Florida,2020-04-23,29648
+5348,Georgia,2020-04-23,21883
+5349,Grand Princess,2020-04-23,103
+5350,Guam,2020-04-23,139
+5351,Hawaii,2020-04-23,596
+5352,Idaho,2020-04-23,1836
+5353,Illinois,2020-04-23,36937
+5354,Indiana,2020-04-23,13039
+5355,Iowa,2020-04-23,3924
+5356,Kansas,2020-04-23,2721
+5357,Kentucky,2020-04-23,3479
+5358,Louisiana,2020-04-23,25739
+5359,Maine,2020-04-23,937
+5360,Maryland,2020-04-23,15737
+5361,Massachusetts,2020-04-23,46023
+5362,Michigan,2020-04-23,35296
+5363,Minnesota,2020-04-23,2942
+5364,Mississippi,2020-04-23,5153
+5365,Missouri,2020-04-23,6506
+5366,Montana,2020-04-23,442
+5367,Nebraska,2020-04-23,2202
+5368,Nevada,2020-04-23,4208
+5369,New Hampshire,2020-04-23,1670
+5370,New Jersey,2020-04-23,100025
+5371,New Mexico,2020-04-23,2379
+5372,New York,2020-04-23,263460
+5373,North Carolina,2020-04-23,7820
+5374,North Dakota,2020-04-23,709
+5375,Northern Mariana Islands,2020-04-23,14
+5376,Ohio,2020-04-23,14694
+5377,Oklahoma,2020-04-23,3017
+5378,Oregon,2020-04-23,2127
+5379,Pennsylvania,2020-04-23,38379
+5380,Puerto Rico,2020-04-23,1416
+5381,Rhode Island,2020-04-23,6256
+5382,South Carolina,2020-04-23,4917
+5383,South Dakota,2020-04-23,1956
+5384,Tennessee,2020-04-23,8266
+5385,Texas,2020-04-23,22650
+5386,Utah,2020-04-23,3612
+5387,Vermont,2020-04-23,825
+5388,Virgin Islands,2020-04-23,54
+5389,Virginia,2020-04-23,10998
+5390,Washington,2020-04-23,12753
+5391,West Virginia,2020-04-23,981
+5392,Wisconsin,2020-04-23,5052
+5393,Wyoming,2020-04-23,453
+5394,Alabama,2020-04-24,6026
+5395,Alaska,2020-04-24,339
+5396,American Samoa,2020-04-24,0
+5397,Arizona,2020-04-24,6045
+5398,Arkansas,2020-04-24,2810
+5399,California,2020-04-24,41355
+5400,Colorado,2020-04-24,12256
+5401,Connecticut,2020-04-24,23936
+5402,Delaware,2020-04-24,3442
+5403,Diamond Princess,2020-04-24,49
+5404,District of Columbia,2020-04-24,3528
+5405,Florida,2020-04-24,30533
+5406,Georgia,2020-04-24,22491
+5407,Grand Princess,2020-04-24,103
+5408,Guam,2020-04-24,141
+5409,Hawaii,2020-04-24,601
+5410,Idaho,2020-04-24,1870
+5411,Illinois,2020-04-24,39658
+5412,Indiana,2020-04-24,13681
+5413,Iowa,2020-04-24,4445
+5414,Kansas,2020-04-24,2959
+5415,Kentucky,2020-04-24,3779
+5416,Louisiana,2020-04-24,26140
+5417,Maine,2020-04-24,965
+5418,Maryland,2020-04-24,16616
+5419,Massachusetts,2020-04-24,50969
+5420,Michigan,2020-04-24,36666
+5421,Minnesota,2020-04-24,3185
+5422,Mississippi,2020-04-24,5434
+5423,Missouri,2020-04-24,6788
+5424,Montana,2020-04-24,444
+5425,Nebraska,2020-04-24,2424
+5426,Nevada,2020-04-24,4398
+5427,New Hampshire,2020-04-24,1720
+5428,New Jersey,2020-04-24,102196
+5429,New Mexico,2020-04-24,2521
+5430,New York,2020-04-24,271590
+5431,North Carolina,2020-04-24,8290
+5432,North Dakota,2020-04-24,748
+5433,Northern Mariana Islands,2020-04-24,14
+5434,Ohio,2020-04-24,15169
+5435,Oklahoma,2020-04-24,3121
+5436,Oregon,2020-04-24,2177
+5437,Pennsylvania,2020-04-24,40208
+5438,Puerto Rico,2020-04-24,1276
+5439,Rhode Island,2020-04-24,6699
+5440,South Carolina,2020-04-24,5070
+5441,South Dakota,2020-04-24,2040
+5442,Tennessee,2020-04-24,8728
+5443,Texas,2020-04-24,23642
+5444,Utah,2020-04-24,3782
+5445,Vermont,2020-04-24,827
+5446,Virgin Islands,2020-04-24,54
+5447,Virginia,2020-04-24,11594
+5448,Washington,2020-04-24,12977
+5449,West Virginia,2020-04-24,1010
+5450,Wisconsin,2020-04-24,5356
+5451,Wyoming,2020-04-24,473
+5452,Alabama,2020-04-25,6026
+5453,Alaska,2020-04-25,339
+5454,American Samoa,2020-04-25,0
+5455,Arizona,2020-04-25,6286
+5456,Arkansas,2020-04-25,2911
+5457,California,2020-04-25,42368
+5458,Colorado,2020-04-25,12968
+5459,Connecticut,2020-04-25,24583
+5460,Delaware,2020-04-25,3576
+5461,Diamond Princess,2020-04-25,49
+5462,District of Columbia,2020-04-25,3699
+5463,Florida,2020-04-25,30839
+5464,Georgia,2020-04-25,23222
+5465,Grand Princess,2020-04-25,103
+5466,Guam,2020-04-25,141
+5467,Hawaii,2020-04-25,605
+5468,Idaho,2020-04-25,1887
+5469,Illinois,2020-04-25,41777
+5470,Indiana,2020-04-25,14399
+5471,Iowa,2020-04-25,5092
+5472,Kansas,2020-04-25,3135
+5473,Kentucky,2020-04-25,3915
+5474,Louisiana,2020-04-25,26512
+5475,Maine,2020-04-25,965
+5476,Maryland,2020-04-25,17766
+5477,Massachusetts,2020-04-25,53348
+5478,Michigan,2020-04-25,37074
+5479,Minnesota,2020-04-25,3446
+5480,Mississippi,2020-04-25,5718
+5481,Missouri,2020-04-25,6935
+5482,Montana,2020-04-25,445
+5483,Nebraska,2020-04-25,2719
+5484,Nevada,2020-04-25,4539
+5485,New Hampshire,2020-04-25,1797
+5486,New Jersey,2020-04-25,105498
+5487,New Mexico,2020-04-25,2660
+5488,New York,2020-04-25,282143
+5489,North Carolina,2020-04-25,8768
+5490,North Dakota,2020-04-25,803
+5491,Northern Mariana Islands,2020-04-25,14
+5492,Ohio,2020-04-25,15587
+5493,Oklahoma,2020-04-25,3194
+5494,Oregon,2020-04-25,2253
+5495,Pennsylvania,2020-04-25,41153
+5496,Puerto Rico,2020-04-25,1307
+5497,Rhode Island,2020-04-25,7129
+5498,South Carolina,2020-04-25,5253
+5499,South Dakota,2020-04-25,2147
+5500,Tennessee,2020-04-25,9189
+5501,Texas,2020-04-25,24153
+5502,Utah,2020-04-25,3948
+5503,Vermont,2020-04-25,843
+5504,Virgin Islands,2020-04-25,55
+5505,Virginia,2020-04-25,12366
+5506,Washington,2020-04-25,13319
+5507,West Virginia,2020-04-25,1010
+5508,Wisconsin,2020-04-25,5687
+5509,Wyoming,2020-04-25,491
+5510,Alabama,2020-04-26,6421
+5511,Alaska,2020-04-26,340
+5512,American Samoa,2020-04-26,0
+5513,Arizona,2020-04-26,6534
+5514,Arkansas,2020-04-26,3001
+5515,California,2020-04-26,43558
+5516,Colorado,2020-04-26,13441
+5517,Connecticut,2020-04-26,25269
+5518,Delaware,2020-04-26,4034
+5519,Diamond Princess,2020-04-26,49
+5520,District of Columbia,2020-04-26,3841
+5521,Florida,2020-04-26,31532
+5522,Georgia,2020-04-26,23486
+5523,Grand Princess,2020-04-26,103
+5524,Guam,2020-04-26,141
+5525,Hawaii,2020-04-26,606
+5526,Idaho,2020-04-26,1897
+5527,Illinois,2020-04-26,43903
+5528,Indiana,2020-04-26,15012
+5529,Iowa,2020-04-26,5476
+5530,Kansas,2020-04-26,3277
+5531,Kentucky,2020-04-26,4085
+5532,Louisiana,2020-04-26,26773
+5533,Maine,2020-04-26,1015
+5534,Maryland,2020-04-26,18581
+5535,Massachusetts,2020-04-26,54938
+5536,Michigan,2020-04-26,37778
+5537,Minnesota,2020-04-26,3602
+5538,Mississippi,2020-04-26,5911
+5539,Missouri,2020-04-26,7120
+5540,Montana,2020-04-26,448
+5541,Nebraska,2020-04-26,3030
+5542,Nevada,2020-04-26,4734
+5543,New Hampshire,2020-04-26,1864
+5544,New Jersey,2020-04-26,109038
+5545,New Mexico,2020-04-26,2726
+5546,New York,2020-04-26,288045
+5547,North Carolina,2020-04-26,8997
+5548,North Dakota,2020-04-26,867
+5549,Northern Mariana Islands,2020-04-26,14
+5550,Ohio,2020-04-26,15972
+5551,Oklahoma,2020-04-26,3254
+5552,Oregon,2020-04-26,2311
+5553,Pennsylvania,2020-04-26,42616
+5554,Puerto Rico,2020-04-26,1371
+5555,Rhode Island,2020-04-26,7439
+5556,South Carolina,2020-04-26,5498
+5557,South Dakota,2020-04-26,2212
+5558,Tennessee,2020-04-26,9667
+5559,Texas,2020-04-26,24967
+5560,Utah,2020-04-26,4123
+5561,Vermont,2020-04-26,851
+5562,Virgin Islands,2020-04-26,57
+5563,Virginia,2020-04-26,12970
+5564,Washington,2020-04-26,13521
+5565,West Virginia,2020-04-26,1055
+5566,Wisconsin,2020-04-26,5912
+5567,Wyoming,2020-04-26,502
+5568,Alabama,2020-04-27,6539
+5569,Alaska,2020-04-27,345
+5570,American Samoa,2020-04-27,0
+5571,Arizona,2020-04-27,6725
+5572,Arkansas,2020-04-27,3069
+5573,California,2020-04-27,44966
+5574,Colorado,2020-04-27,13879
+5575,Connecticut,2020-04-27,25997
+5576,Delaware,2020-04-27,4162
+5577,Diamond Princess,2020-04-27,49
+5578,District of Columbia,2020-04-27,3892
+5579,Florida,2020-04-27,32138
+5580,Georgia,2020-04-27,24302
+5581,Grand Princess,2020-04-27,103
+5582,Guam,2020-04-27,141
+5583,Hawaii,2020-04-27,607
+5584,Idaho,2020-04-27,1897
+5585,Illinois,2020-04-27,45883
+5586,Indiana,2020-04-27,15961
+5587,Iowa,2020-04-27,5868
+5588,Kansas,2020-04-27,3473
+5589,Kentucky,2020-04-27,4156
+5590,Louisiana,2020-04-27,27068
+5591,Maine,2020-04-27,1023
+5592,Maryland,2020-04-27,19487
+5593,Massachusetts,2020-04-27,56462
+5594,Michigan,2020-04-27,38210
+5595,Minnesota,2020-04-27,3811
+5596,Mississippi,2020-04-27,6094
+5597,Missouri,2020-04-27,7305
+5598,Montana,2020-04-27,449
+5599,Nebraska,2020-04-27,3358
+5600,Nevada,2020-04-27,4700
+5601,New Hampshire,2020-04-27,1938
+5602,New Jersey,2020-04-27,111188
+5603,New Mexico,2020-04-27,2825
+5604,New York,2020-04-27,291996
+5605,North Carolina,2020-04-27,9428
+5606,North Dakota,2020-04-27,942
+5607,Northern Mariana Islands,2020-04-27,14
+5608,Ohio,2020-04-27,16325
+5609,Oklahoma,2020-04-27,3281
+5610,Oregon,2020-04-27,2354
+5611,Pennsylvania,2020-04-27,43558
+5612,Puerto Rico,2020-04-27,1389
+5613,Rhode Island,2020-04-27,7708
+5614,South Carolina,2020-04-27,5613
+5615,South Dakota,2020-04-27,2244
+5616,Tennessee,2020-04-27,9918
+5617,Texas,2020-04-27,25321
+5618,Utah,2020-04-27,4236
+5619,Vermont,2020-04-27,855
+5620,Virgin Islands,2020-04-27,57
+5621,Virginia,2020-04-27,13538
+5622,Washington,2020-04-27,13686
+5623,West Virginia,2020-04-27,1063
+5624,Wisconsin,2020-04-27,6081
+5625,Wyoming,2020-04-27,520
+5626,Alabama,2020-04-28,6750
+5627,Alaska,2020-04-28,351
+5628,American Samoa,2020-04-28,0
+5629,Arizona,2020-04-28,6955
+5630,Arkansas,2020-04-28,3127
+5631,California,2020-04-28,46164
+5632,Colorado,2020-04-28,14316
+5633,Connecticut,2020-04-28,26312
+5634,Delaware,2020-04-28,4575
+5635,Diamond Princess,2020-04-28,49
+5636,District of Columbia,2020-04-28,3994
+5637,Florida,2020-04-28,32848
+5638,Georgia,2020-04-28,24922
+5639,Grand Princess,2020-04-28,103
+5640,Guam,2020-04-28,141
+5641,Hawaii,2020-04-28,609
+5642,Idaho,2020-04-28,1952
+5643,Illinois,2020-04-28,48102
+5644,Indiana,2020-04-28,16588
+5645,Iowa,2020-04-28,6376
+5646,Kansas,2020-04-28,3652
+5647,Kentucky,2020-04-28,4375
+5648,Louisiana,2020-04-28,27286
+5649,Maine,2020-04-28,1040
+5650,Maryland,2020-04-28,20113
+5651,Massachusetts,2020-04-28,58302
+5652,Michigan,2020-04-28,39262
+5653,Minnesota,2020-04-28,4181
+5654,Mississippi,2020-04-28,6342
+5655,Missouri,2020-04-28,7450
+5656,Montana,2020-04-28,451
+5657,Nebraska,2020-04-28,3517
+5658,Nevada,2020-04-28,4821
+5659,New Hampshire,2020-04-28,2010
+5660,New Jersey,2020-04-28,113856
+5661,New Mexico,2020-04-28,2974
+5662,New York,2020-04-28,295106
+5663,North Carolina,2020-04-28,9755
+5664,North Dakota,2020-04-28,991
+5665,Northern Mariana Islands,2020-04-28,14
+5666,Ohio,2020-04-28,16769
+5667,Oklahoma,2020-04-28,3410
+5668,Oregon,2020-04-28,2385
+5669,Pennsylvania,2020-04-28,45137
+5670,Puerto Rico,2020-04-28,1400
+5671,Rhode Island,2020-04-28,7927
+5672,South Carolina,2020-04-28,5735
+5673,South Dakota,2020-04-28,2313
+5674,Tennessee,2020-04-28,10052
+5675,Texas,2020-04-28,26357
+5676,Utah,2020-04-28,4345
+5677,Vermont,2020-04-28,862
+5678,Virgin Islands,2020-04-28,57
+5679,Virginia,2020-04-28,14339
+5680,Washington,2020-04-28,13842
+5681,West Virginia,2020-04-28,1095
+5682,Wisconsin,2020-04-28,6289
+5683,Wyoming,2020-04-28,536
+5684,Alabama,2020-04-29,6912
+5685,Alaska,2020-04-29,355
+5686,American Samoa,2020-04-29,0
+5687,Arizona,2020-04-29,7209
+5688,Arkansas,2020-04-29,3193
+5689,California,2020-04-29,48747
+5690,Colorado,2020-04-29,14758
+5691,Connecticut,2020-04-29,26767
+5692,Delaware,2020-04-29,4655
+5693,Diamond Princess,2020-04-29,49
+5694,District of Columbia,2020-04-29,4106
+5695,Florida,2020-04-29,33193
+5696,Georgia,2020-04-29,25775
+5697,Grand Princess,2020-04-29,103
+5698,Guam,2020-04-29,141
+5699,Hawaii,2020-04-29,613
+5700,Idaho,2020-04-29,1952
+5701,Illinois,2020-04-29,50358
+5702,Indiana,2020-04-29,17182
+5703,Iowa,2020-04-29,6843
+5704,Kansas,2020-04-29,3839
+5705,Kentucky,2020-04-29,4537
+5706,Louisiana,2020-04-29,27660
+5707,Maine,2020-04-29,1056
+5708,Maryland,2020-04-29,20849
+5709,Massachusetts,2020-04-29,60265
+5710,Michigan,2020-04-29,40399
+5711,Minnesota,2020-04-29,4644
+5712,Mississippi,2020-04-29,6569
+5713,Missouri,2020-04-29,7660
+5714,Montana,2020-04-29,451
+5715,Nebraska,2020-04-29,3851
+5716,Nevada,2020-04-29,4934
+5717,New Hampshire,2020-04-29,2058
+5718,New Jersey,2020-04-29,116365
+5719,New Mexico,2020-04-29,3213
+5720,New York,2020-04-29,299691
+5721,North Carolina,2020-04-29,10180
+5722,North Dakota,2020-04-29,1033
+5723,Northern Mariana Islands,2020-04-29,14
+5724,Ohio,2020-04-29,17303
+5725,Oklahoma,2020-04-29,3473
+5726,Oregon,2020-04-29,2446
+5727,Pennsylvania,2020-04-29,46327
+5728,Puerto Rico,2020-04-29,1433
+5729,Rhode Island,2020-04-29,8247
+5730,South Carolina,2020-04-29,5882
+5731,South Dakota,2020-04-29,2373
+5732,Tennessee,2020-04-29,10366
+5733,Texas,2020-04-29,27257
+5734,Utah,2020-04-29,4497
+5735,Vermont,2020-04-29,862
+5736,Virgin Islands,2020-04-29,57
+5737,Virginia,2020-04-29,14962
+5738,Washington,2020-04-29,14070
+5739,West Virginia,2020-04-29,1110
+5740,Wisconsin,2020-04-29,6520
+5741,Wyoming,2020-04-29,545
+5742,Alabama,2020-04-30,7088
+5743,Alaska,2020-04-30,355
+5744,American Samoa,2020-04-30,0
+5745,Arizona,2020-04-30,7655
+5746,Arkansas,2020-04-30,3281
+5747,California,2020-04-30,50130
+5748,Colorado,2020-04-30,15284
+5749,Connecticut,2020-04-30,27700
+5750,Delaware,2020-04-30,4734
+5751,Diamond Princess,2020-04-30,49
+5752,District of Columbia,2020-04-30,4323
+5753,Florida,2020-04-30,33690
+5754,Georgia,2020-04-30,26264
+5755,Grand Princess,2020-04-30,103
+5756,Guam,2020-04-30,145
+5757,Hawaii,2020-04-30,618
+5758,Idaho,2020-04-30,1984
+5759,Illinois,2020-04-30,52918
+5760,Indiana,2020-04-30,17835
+5761,Iowa,2020-04-30,7145
+5762,Kansas,2020-04-30,4413
+5763,Kentucky,2020-04-30,4708
+5764,Louisiana,2020-04-30,28001
+5765,Maine,2020-04-30,1095
+5766,Maryland,2020-04-30,21742
+5767,Massachusetts,2020-04-30,62205
+5768,Michigan,2020-04-30,41379
+5769,Minnesota,2020-04-30,5136
+5770,Mississippi,2020-04-30,6815
+5771,Missouri,2020-04-30,7818
+5772,Montana,2020-04-30,453
+5773,Nebraska,2020-04-30,4281
+5774,Nevada,2020-04-30,5053
+5775,New Hampshire,2020-04-30,2146
+5776,New Jersey,2020-04-30,118652
+5777,New Mexico,2020-04-30,3411
+5778,New York,2020-04-30,304372
+5779,North Carolina,2020-04-30,10754
+5780,North Dakota,2020-04-30,1067
+5781,Northern Mariana Islands,2020-04-30,14
+5782,Ohio,2020-04-30,18027
+5783,Oklahoma,2020-04-30,3618
+5784,Oregon,2020-04-30,2510
+5785,Pennsylvania,2020-04-30,47971
+5786,Puerto Rico,2020-04-30,1539
+5787,Rhode Island,2020-04-30,8621
+5788,South Carolina,2020-04-30,6095
+5789,South Dakota,2020-04-30,2449
+5790,Tennessee,2020-04-30,10735
+5791,Texas,2020-04-30,28727
+5792,Utah,2020-04-30,4672
+5793,Vermont,2020-04-30,866
+5794,Virgin Islands,2020-04-30,66
+5795,Virginia,2020-04-30,15847
+5796,Washington,2020-04-30,14327
+5797,West Virginia,2020-04-30,1125
+5798,Wisconsin,2020-04-30,6854
+5799,Wyoming,2020-04-30,559
+5800,Alabama,2020-05-01,7294
+5801,Alaska,2020-05-01,364
+5802,American Samoa,2020-05-01,0
+5803,Arizona,2020-05-01,7969
+5804,Arkansas,2020-05-01,3337
+5805,California,2020-05-01,52026
+5806,Colorado,2020-05-01,15793
+5807,Connecticut,2020-05-01,28764
+5808,Delaware,2020-05-01,4918
+5809,Diamond Princess,2020-05-01,49
+5810,District of Columbia,2020-05-01,4658
+5811,Florida,2020-05-01,34728
+5812,Georgia,2020-05-01,27489
+5813,Grand Princess,2020-05-01,103
+5814,Guam,2020-05-01,145
+5815,Hawaii,2020-05-01,619
+5816,Idaho,2020-05-01,2015
+5817,Illinois,2020-05-01,56055
+5818,Indiana,2020-05-01,18630
+5819,Iowa,2020-05-01,7884
+5820,Kansas,2020-05-01,4634
+5821,Kentucky,2020-05-01,4882
+5822,Louisiana,2020-05-01,28711
+5823,Maine,2020-05-01,1123
+5824,Maryland,2020-05-01,23472
+5825,Massachusetts,2020-05-01,64311
+5826,Michigan,2020-05-01,42356
+5827,Minnesota,2020-05-01,5730
+5828,Mississippi,2020-05-01,7212
+5829,Missouri,2020-05-01,8067
+5830,Montana,2020-05-01,453
+5831,Nebraska,2020-05-01,5008
+5832,Nevada,2020-05-01,5248
+5833,New Hampshire,2020-05-01,2310
+5834,New Jersey,2020-05-01,121190
+5835,New Mexico,2020-05-01,3513
+5836,New York,2020-05-01,308314
+5837,North Carolina,2020-05-01,11070
+5838,North Dakota,2020-05-01,1107
+5839,Northern Mariana Islands,2020-05-01,14
+5840,Ohio,2020-05-01,18743
+5841,Oklahoma,2020-05-01,3748
+5842,Oregon,2020-05-01,2579
+5843,Pennsylvania,2020-05-01,49579
+5844,Puerto Rico,2020-05-01,1575
+5845,Rhode Island,2020-05-01,8962
+5846,South Carolina,2020-05-01,6258
+5847,South Dakota,2020-05-01,2525
+5848,Tennessee,2020-05-01,11891
+5849,Texas,2020-05-01,29692
+5850,Utah,2020-05-01,4828
+5851,Vermont,2020-05-01,879
+5852,Virgin Islands,2020-05-01,66
+5853,Virginia,2020-05-01,16902
+5854,Washington,2020-05-01,14637
+5855,West Virginia,2020-05-01,1152
+5856,Wisconsin,2020-05-01,7314
+5857,Wyoming,2020-05-01,566
+5858,Alabama,2020-05-02,7611
+5859,Alaska,2020-05-02,365
+5860,American Samoa,2020-05-02,0
+5861,Arizona,2020-05-02,8364
+5862,Arkansas,2020-05-02,3372
+5863,California,2020-05-02,53347
+5864,Colorado,2020-05-02,16225
+5865,Connecticut,2020-05-02,29287
+5866,Delaware,2020-05-02,5038
+5867,Diamond Princess,2020-05-02,49
+5868,District of Columbia,2020-05-02,4797
+5869,Florida,2020-05-02,35463
+5870,Georgia,2020-05-02,28331
+5871,Grand Princess,2020-05-02,103
+5872,Guam,2020-05-02,145
+5873,Hawaii,2020-05-02,620
+5874,Idaho,2020-05-02,2061
+5875,Illinois,2020-05-02,58505
+5876,Indiana,2020-05-02,19295
+5877,Iowa,2020-05-02,8643
+5878,Kansas,2020-05-02,4885
+5879,Kentucky,2020-05-02,4879
+5880,Louisiana,2020-05-02,29140
+5881,Maine,2020-05-02,1153
+5882,Maryland,2020-05-02,24473
+5883,Massachusetts,2020-05-02,66263
+5884,Michigan,2020-05-02,43207
+5885,Minnesota,2020-05-02,6232
+5886,Mississippi,2020-05-02,7441
+5887,Missouri,2020-05-02,8356
+5888,Montana,2020-05-02,455
+5889,Nebraska,2020-05-02,5317
+5890,Nevada,2020-05-02,5389
+5891,New Hampshire,2020-05-02,2429
+5892,New Jersey,2020-05-02,123717
+5893,New Mexico,2020-05-02,3732
+5894,New York,2020-05-02,312977
+5895,North Carolina,2020-05-02,11588
+5896,North Dakota,2020-05-02,1153
+5897,Northern Mariana Islands,2020-05-02,14
+5898,Ohio,2020-05-02,19335
+5899,Oklahoma,2020-05-02,3851
+5900,Oregon,2020-05-02,2635
+5901,Pennsylvania,2020-05-02,50494
+5902,Puerto Rico,2020-05-02,1757
+5903,Rhode Island,2020-05-02,9289
+5904,South Carolina,2020-05-02,6489
+5905,South Dakota,2020-05-02,2588
+5906,Tennessee,2020-05-02,12661
+5907,Texas,2020-05-02,30917
+5908,Utah,2020-05-02,4985
+5909,Vermont,2020-05-02,886
+5910,Virgin Islands,2020-05-02,66
+5911,Virginia,2020-05-02,17738
+5912,Washington,2020-05-02,15003
+5913,West Virginia,2020-05-02,1185
+5914,Wisconsin,2020-05-02,7660
+5915,Wyoming,2020-05-02,579
+5916,Alabama,2020-05-03,7888
+5917,Alaska,2020-05-03,368
+5918,American Samoa,2020-05-03,0
+5919,Arizona,2020-05-03,8640
+5920,Arkansas,2020-05-03,3437
+5921,California,2020-05-03,54903
+5922,Colorado,2020-05-03,16635
+5923,Connecticut,2020-05-03,29287
+5924,Delaware,2020-05-03,5208
+5925,Diamond Princess,2020-05-03,49
+5926,District of Columbia,2020-05-03,5016
+5927,Florida,2020-05-03,36078
+5928,Georgia,2020-05-03,28665
+5929,Grand Princess,2020-05-03,103
+5930,Guam,2020-05-03,145
+5931,Hawaii,2020-05-03,620
+5932,Idaho,2020-05-03,2061
+5933,Illinois,2020-05-03,61499
+5934,Indiana,2020-05-03,19933
+5935,Iowa,2020-05-03,9175
+5936,Kansas,2020-05-03,5156
+5937,Kentucky,2020-05-03,5130
+5938,Louisiana,2020-05-03,29340
+5939,Maine,2020-05-03,1185
+5940,Maryland,2020-05-03,25462
+5941,Massachusetts,2020-05-03,68087
+5942,Michigan,2020-05-03,43801
+5943,Minnesota,2020-05-03,6663
+5944,Mississippi,2020-05-03,7550
+5945,Missouri,2020-05-03,8618
+5946,Montana,2020-05-03,455
+5947,Nebraska,2020-05-03,5661
+5948,Nevada,2020-05-03,5472
+5949,New Hampshire,2020-05-03,2518
+5950,New Jersey,2020-05-03,126744
+5951,New Mexico,2020-05-03,3850
+5952,New York,2020-05-03,316415
+5953,North Carolina,2020-05-03,11770
+5954,North Dakota,2020-05-03,1191
+5955,Northern Mariana Islands,2020-05-03,14
+5956,Ohio,2020-05-03,19914
+5957,Oklahoma,2020-05-03,3972
+5958,Oregon,2020-05-03,2680
+5959,Pennsylvania,2020-05-03,51225
+5960,Puerto Rico,2020-05-03,1808
+5961,Rhode Island,2020-05-03,9477
+5962,South Carolina,2020-05-03,6626
+5963,South Dakota,2020-05-03,2631
+5964,Tennessee,2020-05-03,13177
+5965,Texas,2020-05-03,31998
+5966,Utah,2020-05-03,5175
+5967,Vermont,2020-05-03,897
+5968,Virgin Islands,2020-05-03,66
+5969,Virginia,2020-05-03,18672
+5970,Washington,2020-05-03,15185
+5971,West Virginia,2020-05-03,1195
+5972,Wisconsin,2020-05-03,7964
+5973,Wyoming,2020-05-03,586
